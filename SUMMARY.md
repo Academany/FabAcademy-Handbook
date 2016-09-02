@@ -6,4 +6,5 @@
 * New and Aspiring Labs: Basic Requirement
 * Basic Fab Academy Course Info
 * Academy Roles and Key Personnel
+* Distinctions Between Gurus and Local Instructors
 
