@@ -9,4 +9,5 @@
 * Distinctions Between Gurus and Local Instructors
 * Video Conferencing
 * Accepted Academy Sites: Getting Started
+* Local Instructor and Remote Guru Responsibilities and Requirements
 
