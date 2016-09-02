@@ -4,7 +4,7 @@
 * [Introduction](01_introduction.md)
 * [The Fab Academy Handbook](the_fab_academy_handbook.md)
 * [New and Aspiring Labs: Basic Requirement](new_and_aspiring_labs_basic_requirement.md)
-* Basic Fab Academy Course Info
+* [Basic Fab Academy Course Info](basic_fab_academy_course_info.md)
 * Academy Roles and Key Personnel
 * Distinctions Between Gurus and Local Instructors
 * Video Conferencing
