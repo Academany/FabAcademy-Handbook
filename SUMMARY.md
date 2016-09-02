@@ -8,6 +8,6 @@
 * [Academy Roles and Key Personnel](academy_roles_and_key_personnel.md)
 * [Video Conferencing and Mailing Lists](video_conferencing_and_mailing_lists.md)
 * [Accepted Academy Sites: Getting Started](accepted_academy_sites_getting_started.md)
-* Local Instructor and Remote Guru Responsibilities and Requirements
+* [Local Instructor and Remote Guru Responsibilities and Requirements](local_instructor_and_remote_guru_responsibilities_.md)
 * Grading and Final Evaluation
 
