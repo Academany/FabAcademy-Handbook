@@ -9,5 +9,5 @@
 * [Video Conferencing and Mailing Lists](video_conferencing_and_mailing_lists.md)
 * [Accepted Academy Sites: Getting Started](accepted_academy_sites_getting_started.md)
 * [Local Instructor and Remote Guru Responsibilities and Requirements](local_instructor_and_remote_guru_responsibilities_.md)
-* Grading and Final Evaluation
+* [Grading and Final Evaluation](grading_and_final_evaluation.md)
 
