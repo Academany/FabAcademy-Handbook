@@ -1,4 +1,3 @@
-`WIP`
 
 
 # New and Aspiring Labs: Basic Requirements
