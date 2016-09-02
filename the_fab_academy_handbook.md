@@ -36,12 +36,11 @@ Fab Academy Developer and IT Guru
 
 [it@fabacademy.org](mailto:it@fabacademy.org)
 
-**Supply Chain:
-**
+**Supply Chain:**
 
-US, South America or Asia:** **please contact Jean-Luc Pierite directly at:** ****[jeanluc.pierite at fabfoundation.or**g](mailto:jeanluc.pierite@fabfoundation.org)** **
+* USA, South America or Asia: please contact Jean-Luc Pierite directly at: [jeanluc.pierite at fabfoundation.org](mailto:jeanluc.pierite@fabfoundation.org)
 
-**Europe, the Middle East or Africa:** Fab Lab Barcelona also manages stock for the Fab Foundation. To order from them please email: **[orders at fablabbcn.or**g](mailto:orders@fablabbcn.org)
+* Europe, the Middle East or Africa: Fab Lab Barcelona also manages stock for the Fab Foundation. To order from them please email: [orders at fablabbcn.org](mailto:orders@fablabbcn.org)
 
 ## What Are "Gurus"?
 
@@ -73,17 +72,11 @@ Gurus teach "How to Make Almost Anything". It’s a team effort, no one knows ev
 
 * **Bas Withagen**
 
-    * Specialties, what I like to make, role, ask me about…...
-
 * **Shawn Wallace**
-
-    * Specialties, what I like to make, role, ask me about…...
 
 * **Mercedes Mane**
 
-    * Specialties, what I like to make, role, ask me about…...
-
-* **[Luciano Betold**i](mailto:luciano@fablabbcn.org)
+* [**Luciano Betoldi**](mailto:luciano@fablabbcn.org)
 
     * Furniture Design - Complex Joints
 
@@ -97,17 +90,11 @@ Gurus teach "How to Make Almost Anything". It’s a team effort, no one knows ev
 
 * **Alex Schaub**
 
-    * Specialties, what I like to make, role, ask me about…...
-
 * **Tomas Diez**
 
-    * Specialties, what I like to make, role, ask me about…...
+* [**Nuria Robles**](mailto:nuriafablab@gmail.com)
 
-* **[Nuria Roble**s](mailto:nuriafablab@gmail.com)
-
-    * Specialties, what I like to make, role, ask me about…...
-
-* **Francisco**
+* [**Francisco Sanchez**](mailto:hola@beachlab.org)
 
     * Antimony
 
@@ -117,35 +104,34 @@ Gurus teach "How to Make Almost Anything". It’s a team effort, no one knows ev
 
     * attiny’s
 
-* **[Ted Hun**g](mailto:ted@fablabtaipei.org)
-
-    * Specialties, what I like to make, role, ask me about…...
+* [**Ted Hung**](mailto:ted@fablabtaipei.org)
 
 * **Fiore**
 
     * Fab Modules
+    
+    * Gitlab
+    
+    * Italian Pizza and Pasta
 
 * **Ohad**
 
-    * Specialties, what I like to make, role, ask me about…...
-
 * **Blair**
 
-    * Specialties, what I like to make, role, ask me about…...
-
-* **[Ben**o](mailto:beno@fablablima.org)
+* [**Beno**](mailto:beno@fablablima.org)
 
     * Final Project suggestions
+  
 
-* **[Aldo Sollazz**o](http://noumena.io/)
+* [**Aldo Sollazzo**](http://noumena.io/)
 
-    * **Computational design**
+    * Computational design
 
-    * **Grasshopper**
+    * Grasshopper
 
-    * **Python**
+    * Python
 
-* **Etc (Gurus - you know who you are, add yourself here)**
+* **Gurus - you know who you are, add yourself here**
 
 # Distinctions Between Gurus and Local Instructors
 
