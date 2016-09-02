@@ -28,7 +28,7 @@ If you have stumbled across this document via search and do not know what a Fab 
 
 # New and Aspiring Labs: Basic Requirements
 
-##Basic Requirements for Fab Academy Participation
+## Basic Requirements for Fab Academy Participation
 
 Here are the basic requirements and expectations for any lab that wishes to participate in the the Fab Academy course.
 
@@ -226,7 +226,8 @@ Fab Academy Developer and IT Guru
 
 [it@fabacademy.org](mailto:it@fabacademy.org)
 
-**Supply Chain:**
+**Supply Chain:
+**
 
 US, South America or Asia:** **please contact Jean-Luc Pierite directly at:** ****[jeanluc.pierite at fabfoundation.or**g](mailto:jeanluc.pierite@fabfoundation.org)** **
 
@@ -526,7 +527,8 @@ Remote Gurus working with labs without a local instructor should expect to spend
 
 * Remote student support hours	**(1h-2h per student)**
 
-Remote Gurus are REQUIRED to meet with their mentee lab / students for a video check-in session each week. This is vital to the success of remote students. ****
+Remote Gurus are REQUIRED to meet with their mentee lab / students for a video check-in session each week. This is vital to the success of remote students. **
+**
 
 **Possible Guru Tasks (no local instructor)**
 
