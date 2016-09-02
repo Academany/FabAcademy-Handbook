@@ -8,4 +8,5 @@
 * Academy Roles and Key Personnel
 * Distinctions Between Gurus and Local Instructors
 * Video Conferencing
+* Accepted Academy Sites: Getting Started
 
