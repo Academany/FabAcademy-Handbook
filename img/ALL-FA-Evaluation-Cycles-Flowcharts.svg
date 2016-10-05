@@ -1,0 +1,3427 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   version="1.1"
+   viewBox="11 1 2024 1059"
+   width="2024pt"
+   height="1059pt"
+   id="svg2"
+   inkscape:version="0.91 r13725"
+   sodipodi:docname="ALL-FA-Evaluation-Cycles-Flowcharts.svg">
+  <sodipodi:namedview
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="1744"
+     inkscape:window-height="926"
+     id="namedview961"
+     showgrid="false"
+     inkscape:zoom="0.5044063"
+     inkscape:cx="1267.8031"
+     inkscape:cy="656.96749"
+     inkscape:window-x="0"
+     inkscape:window-y="23"
+     inkscape:window-maximized="0"
+     inkscape:current-layer="svg2" />
+  <metadata
+     id="metadata4"> Produced by OmniGraffle 6.6.1 <dc:date>2015-10-08 18:42:20 +0000</dc:date>
+<rdf:RDF>
+  <cc:Work
+     rdf:about="">
+    <dc:format>image/svg+xml</dc:format>
+    <dc:type
+       rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+  </cc:Work>
+</rdf:RDF>
+</metadata>
+  <defs
+     id="defs6">
+    <font-face
+       font-family="Helvetica"
+       font-size="14"
+       units-per-em="1000"
+       underline-position="-75.683594"
+       underline-thickness="49.316406"
+       slope="0"
+       x-height="532.22656"
+       cap-height="719.72656"
+       ascent="770.01953"
+       descent="-229.98047"
+       font-weight="bold"
+       id="font-face8">
+      <font-face-src>
+        <font-face-name
+           name="Helvetica-Bold" />
+      </font-face-src>
+    </font-face>
+    <font-face
+       font-family="Helvetica"
+       font-size="13"
+       units-per-em="1000"
+       underline-position="-75.683594"
+       underline-thickness="49.316406"
+       slope="-923.0769"
+       x-height="539.55078"
+       cap-height="719.72656"
+       ascent="770.01953"
+       descent="-229.98047"
+       font-style="italic"
+       font-weight="bold"
+       id="font-face10">
+      <font-face-src>
+        <font-face-name
+           name="Helvetica-BoldOblique" />
+      </font-face-src>
+    </font-face>
+    <font-face
+       font-family="Helvetica"
+       font-size="10"
+       units-per-em="1000"
+       underline-position="-75.683594"
+       underline-thickness="49.316406"
+       slope="0"
+       x-height="522.94922"
+       cap-height="717.28516"
+       ascent="770.01953"
+       descent="-229.98047"
+       font-weight="500"
+       id="font-face12">
+      <font-face-src>
+        <font-face-name
+           name="Helvetica" />
+      </font-face-src>
+    </font-face>
+    <marker
+       orient="auto"
+       overflow="visible"
+       markerUnits="strokeWidth"
+       id="FilledArrow_Marker"
+       viewBox="-1 -4 10 8"
+       markerWidth="10"
+       markerHeight="8"
+       color="black">
+      <g
+         id="g15">
+        <path
+           d="M 8 0 L 0 -3 L 0 3 Z"
+           fill="currentColor"
+           stroke="currentColor"
+           stroke-width="1"
+           id="path17" />
+      </g>
+    </marker>
+    <font-face
+       font-family="Helvetica"
+       font-size="9"
+       units-per-em="1000"
+       underline-position="-75.683594"
+       underline-thickness="49.316406"
+       slope="0"
+       x-height="532.22656"
+       cap-height="719.72656"
+       ascent="770.01953"
+       descent="-229.98047"
+       font-weight="bold"
+       id="font-face19">
+      <font-face-src>
+        <font-face-name
+           name="Helvetica-Bold" />
+      </font-face-src>
+    </font-face>
+    <marker
+       orient="auto"
+       overflow="visible"
+       markerUnits="strokeWidth"
+       id="Arrow_Marker"
+       viewBox="-1 -4 10 8"
+       markerWidth="10"
+       markerHeight="8"
+       color="#131313">
+      <g
+         id="g22">
+        <path
+           d="M 8 0 L 0 -3 L 0 3 Z"
+           fill="none"
+           stroke="currentColor"
+           stroke-width="1"
+           id="path24" />
+      </g>
+    </marker>
+    <font-face
+       font-family="Helvetica Neue"
+       font-size="11"
+       panose-1="2 0 8 3 0 0 0 9 0 4"
+       units-per-em="1000"
+       underline-position="-100"
+       underline-thickness="50"
+       slope="0"
+       x-height="530"
+       cap-height="730"
+       ascent="975.0061"
+       descent="-216.99524"
+       font-weight="bold"
+       id="font-face26">
+      <font-face-src>
+        <font-face-name
+           name="HelveticaNeue-Bold" />
+      </font-face-src>
+    </font-face>
+    <font-face
+       font-family="Helvetica"
+       font-size="10"
+       units-per-em="1000"
+       underline-position="-75.683594"
+       underline-thickness="49.316406"
+       slope="0"
+       x-height="532.22656"
+       cap-height="719.72656"
+       ascent="770.01953"
+       descent="-229.98047"
+       font-weight="bold"
+       id="font-face28">
+      <font-face-src>
+        <font-face-name
+           name="Helvetica-Bold" />
+      </font-face-src>
+    </font-face>
+    <font-face
+       font-family="Helvetica Neue"
+       font-size="10"
+       panose-1="2 0 8 3 0 0 0 9 0 4"
+       units-per-em="1000"
+       underline-position="-100"
+       underline-thickness="50"
+       slope="0"
+       x-height="530"
+       cap-height="730"
+       ascent="975.0061"
+       descent="-216.99524"
+       font-weight="bold"
+       id="font-face30">
+      <font-face-src>
+        <font-face-name
+           name="HelveticaNeue-Bold" />
+      </font-face-src>
+    </font-face>
+    <marker
+       orient="auto"
+       overflow="visible"
+       markerUnits="strokeWidth"
+       id="FilledArrow_Marker_2"
+       viewBox="-9 -4 10 8"
+       markerWidth="10"
+       markerHeight="8"
+       color="black">
+      <g
+         id="g33">
+        <path
+           d="M -8 0 L 0 3 L 0 -3 Z"
+           fill="currentColor"
+           stroke="currentColor"
+           stroke-width="1"
+           id="path35" />
+      </g>
+    </marker>
+    <font-face
+       font-family="Helvetica Neue"
+       font-size="13"
+       panose-1="2 0 8 3 0 0 0 9 0 4"
+       units-per-em="1000"
+       underline-position="-100"
+       underline-thickness="50"
+       slope="-923.0769"
+       x-height="530"
+       cap-height="730"
+       ascent="975.0061"
+       descent="-216.99524"
+       font-style="italic"
+       font-weight="bold"
+       id="font-face37">
+      <font-face-src>
+        <font-face-name
+           name="HelveticaNeue-BoldItalic" />
+      </font-face-src>
+    </font-face>
+    <font-face
+       font-family="Helvetica Neue"
+       font-size="13"
+       panose-1="2 0 5 3 0 0 0 9 0 4"
+       units-per-em="1000"
+       underline-position="-100"
+       underline-thickness="50"
+       slope="-923.0769"
+       x-height="528"
+       cap-height="730"
+       ascent="957.00073"
+       descent="-212.99744"
+       font-style="italic"
+       font-weight="500"
+       id="font-face39">
+      <font-face-src>
+        <font-face-name
+           name="HelveticaNeue-Italic" />
+      </font-face-src>
+    </font-face>
+    <font-face
+       font-family="Helvetica Neue"
+       font-size="15"
+       panose-1="2 0 8 3 0 0 0 9 0 4"
+       units-per-em="1000"
+       underline-position="-100"
+       underline-thickness="50"
+       slope="-800"
+       x-height="530"
+       cap-height="730"
+       ascent="975.0061"
+       descent="-216.99524"
+       font-style="italic"
+       font-weight="bold"
+       id="font-face41">
+      <font-face-src>
+        <font-face-name
+           name="HelveticaNeue-BoldItalic" />
+      </font-face-src>
+    </font-face>
+    <font-face
+       font-family="Helvetica Neue"
+       font-size="15"
+       panose-1="2 0 5 3 0 0 0 9 0 4"
+       units-per-em="1000"
+       underline-position="-100"
+       underline-thickness="50"
+       slope="-800"
+       x-height="528"
+       cap-height="730"
+       ascent="957.00073"
+       descent="-212.99744"
+       font-style="italic"
+       font-weight="500"
+       id="font-face43">
+      <font-face-src>
+        <font-face-name
+           name="HelveticaNeue-Italic" />
+      </font-face-src>
+    </font-face>
+    <font-face
+       font-family="Helvetica Neue"
+       font-size="13"
+       panose-1="2 0 5 3 0 0 0 2 0 4"
+       units-per-em="1000"
+       underline-position="-100"
+       underline-thickness="50"
+       slope="0"
+       x-height="528"
+       cap-height="730"
+       ascent="951.99585"
+       descent="-212.99744"
+       font-weight="500"
+       id="font-face45">
+      <font-face-src>
+        <font-face-name
+           name="HelveticaNeue" />
+      </font-face-src>
+    </font-face>
+    <font-face
+       font-family="Helvetica Neue"
+       font-size="15"
+       panose-1="2 0 8 3 0 0 0 9 0 4"
+       units-per-em="1000"
+       underline-position="-100"
+       underline-thickness="50"
+       slope="0"
+       x-height="530"
+       cap-height="730"
+       ascent="975.0061"
+       descent="-216.99524"
+       font-weight="bold"
+       id="font-face47">
+      <font-face-src>
+        <font-face-name
+           name="HelveticaNeue-Bold" />
+      </font-face-src>
+    </font-face>
+    <font-face
+       font-family="Helvetica Neue"
+       font-size="28"
+       panose-1="2 0 8 3 0 0 0 9 0 4"
+       units-per-em="1000"
+       underline-position="-100"
+       underline-thickness="50"
+       slope="0"
+       x-height="530"
+       cap-height="730"
+       ascent="975.0061"
+       descent="-216.99524"
+       font-weight="bold"
+       id="font-face49">
+      <font-face-src>
+        <font-face-name
+           name="HelveticaNeue-Bold" />
+      </font-face-src>
+    </font-face>
+    <font-face
+       font-family="Arial Black"
+       font-size="19"
+       panose-1="2 11 10 4 2 1 2 2 2 4"
+       units-per-em="1000"
+       underline-position="-125"
+       underline-thickness="60.058594"
+       slope="0"
+       x-height="530.27344"
+       cap-height="728.02734"
+       ascent="1100.58594"
+       descent="-309.57031"
+       font-weight="bold"
+       id="font-face51">
+      <font-face-src>
+        <font-face-name
+           name="Arial-Black" />
+      </font-face-src>
+    </font-face>
+    <font-face
+       font-family="Helvetica Neue"
+       font-size="12"
+       panose-1="2 0 8 3 0 0 0 9 0 4"
+       units-per-em="1000"
+       underline-position="-100"
+       underline-thickness="50"
+       slope="0"
+       x-height="530"
+       cap-height="730"
+       ascent="975.0061"
+       descent="-216.99524"
+       font-weight="bold"
+       id="font-face53">
+      <font-face-src>
+        <font-face-name
+           name="HelveticaNeue-Bold" />
+      </font-face-src>
+    </font-face>
+    <font-face
+       font-family="Helvetica Neue"
+       font-size="12"
+       panose-1="2 0 5 3 0 0 0 2 0 4"
+       units-per-em="1000"
+       underline-position="-100"
+       underline-thickness="50"
+       slope="0"
+       x-height="528"
+       cap-height="730"
+       ascent="951.99585"
+       descent="-212.99744"
+       font-weight="500"
+       id="font-face55">
+      <font-face-src>
+        <font-face-name
+           name="HelveticaNeue" />
+      </font-face-src>
+    </font-face>
+    <font-face
+       font-family="Helvetica Neue"
+       font-size="16"
+       panose-1="2 0 5 3 0 0 0 2 0 4"
+       units-per-em="1000"
+       underline-position="-100"
+       underline-thickness="50"
+       slope="0"
+       x-height="528"
+       cap-height="730"
+       ascent="951.99585"
+       descent="-212.99744"
+       font-weight="500"
+       id="font-face57">
+      <font-face-src>
+        <font-face-name
+           name="HelveticaNeue" />
+      </font-face-src>
+    </font-face>
+  </defs>
+  <rect
+     x="1486.5748"
+     y="249.44882"
+     width="537.36218"
+     height="252.28346"
+     id="rect67"
+     style="fill:#ffffff;fill-opacity:1;stroke:none;stroke-dasharray:none;stroke-opacity:1" />
+  <rect
+     x="1486.5748"
+     y="249.44882"
+     width="537.36218"
+     height="252.28346"
+     id="rect69"
+     style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:1;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;stroke-opacity:1" />
+  <text
+     id="text71"
+     style="fill:#000000;fill-opacity:1;stroke:none;stroke-dasharray:none;stroke-opacity:1"
+     x="1491.5748"
+     y="249.44882">
+    <tspan
+       font-size="14"
+       font-weight="bold"
+       x="1831.4409"
+       y="263.44882"
+       textLength="87.896484"
+       id="tspan73"
+       style="font-weight:bold;font-size:14px;font-family:Helvetica">Global Certifi</tspan>
+    <tspan
+       font-size="14"
+       font-weight="bold"
+       x="1919.3374"
+       y="263.44882"
+       textLength="99.59961"
+       id="tspan75"
+       style="font-weight:bold;font-size:14px;font-family:Helvetica">cation Process</tspan>
+    <tspan
+       font-size="13"
+       font-style="italic"
+       font-weight="bold"
+       x="1907.1738"
+       y="279.44882"
+       textLength="7.940918"
+       id="tspan77"
+       style="font-style:italic;font-weight:bold;font-size:13px;font-family:Helvetica">T</tspan>
+    <tspan
+       font-size="13"
+       font-style="italic"
+       font-weight="bold"
+       x="1914.1562"
+       y="279.44882"
+       textLength="104.78076"
+       id="tspan79"
+       style="font-style:italic;font-weight:bold;font-size:13px;font-family:Helvetica">wo weeks elapse</tspan>
+  </text>
+  <rect
+     x="830.55121"
+     y="348.66141"
+     width="462.04724"
+     height="535.74805"
+     id="rect81"
+     style="fill:#cee64a;fill-opacity:0.43999999;stroke:none;stroke-dasharray:none;stroke-opacity:1" />
+  <rect
+     x="830.55121"
+     y="348.66141"
+     width="462.04724"
+     height="535.74805"
+     id="rect83"
+     style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:1;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;stroke-opacity:1" />
+  <text
+     id="text85"
+     style="fill:#000000;fill-opacity:1;stroke:none;stroke-dasharray:none;stroke-opacity:1"
+     x="835.55121"
+     y="348.66141">
+    <tspan
+       font-size="14"
+       font-weight="bold"
+       x="1117.9783"
+       y="362.66141"
+       textLength="169.62012"
+       id="tspan87"
+       style="font-weight:bold;font-size:14px;font-family:Helvetica">Local Evaluation Process</tspan>
+  </text>
+  <rect
+     x="42.519684"
+     y="206.92912"
+     width="666.14172"
+     height="490.39371"
+     id="rect89"
+     style="fill:#1fe872;fill-opacity:0.56999978;stroke:none;stroke-dasharray:none;stroke-opacity:1" />
+  <rect
+     x="42.519684"
+     y="206.92912"
+     width="666.14172"
+     height="490.39371"
+     id="rect91"
+     style="fill:none;fill-opacity:1;stroke:#131313;stroke-width:1;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;stroke-opacity:1" />
+  <text
+     id="text93"
+     style="fill:#000000;fill-opacity:1;stroke:none;stroke-dasharray:none;stroke-opacity:1"
+     x="47.519684"
+     y="206.92912">
+    <tspan
+       font-size="14"
+       font-weight="bold"
+       x="614.41144"
+       y="220.92912"
+       textLength="13.213867"
+       id="tspan95"
+       style="font-weight:bold;font-size:14px;font-family:Helvetica">W</tspan>
+    <tspan
+       font-size="14"
+       font-weight="bold"
+       x="627.37921"
+       y="220.92912"
+       textLength="80.171875"
+       id="tspan97"
+       style="font-weight:bold;font-size:14px;font-family:Helvetica">eekly Cycle</tspan>
+    <tspan
+       font-size="14"
+       font-weight="bold"
+       x="703.66144"
+       y="220.92912"
+       textLength="3.8896484"
+       id="tspan99"
+       style="font-weight:bold;font-size:14px;font-family:Helvetica" />
+    <tspan
+       font-size="14"
+       font-weight="bold"
+       x="703.66144"
+       y="220.92912"
+       textLength="3.8896484"
+       id="tspan101"
+       style="font-weight:bold;font-size:14px;font-family:Helvetica" />
+    <tspan
+       font-size="14"
+       font-weight="bold"
+       x="703.66144"
+       y="220.92912"
+       textLength="3.8896484"
+       id="tspan103"
+       style="font-weight:bold;font-size:14px;font-family:Helvetica" />
+    <tspan
+       font-size="14"
+       font-weight="bold"
+       x="703.66144"
+       y="220.92912"
+       textLength="3.8896484"
+       id="tspan105"
+       style="font-weight:bold;font-size:14px;font-family:Helvetica" />
+  </text>
+  <rect
+     x="466.32678"
+     y="449.55905"
+     width="81"
+     height="36"
+     id="rect107"
+     style="fill:#ffffff;fill-opacity:1;stroke:none;stroke-dasharray:none;stroke-opacity:1" />
+  <path
+     d="m 466.32677,449.55905 81,0 0,36 -81,0 z m 8.1,0 0,36 m 64.8,0 0,-36"
+     id="path109"
+     inkscape:connector-curvature="0"
+     style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:1;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;stroke-opacity:1" />
+  <text
+     id="text111"
+     style="fill:#000000;fill-opacity:1;stroke:none;stroke-dasharray:none;stroke-opacity:1"
+     x="479.42676"
+     y="461.55905">
+    <tspan
+       font-size="10"
+       font-weight="500"
+       x="485.9845"
+       y="471.55905"
+       textLength="41.68457"
+       id="tspan113"
+       style="font-weight:500;font-size:10px;font-family:Helvetica">Fabricate</tspan>
+  </text>
+  <path
+     d="m 482.52677,232.55905 64.8,0 -16.2,36 -64.8,0 z"
+     id="path115"
+     inkscape:connector-curvature="0"
+     style="fill:#ffffff;fill-opacity:1;stroke:none;stroke-dasharray:none;stroke-opacity:1" />
+  <path
+     d="m 482.52677,232.55905 64.8,0 -16.2,36 -64.8,0 z"
+     id="path117"
+     inkscape:connector-curvature="0"
+     style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:1;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;stroke-opacity:1" />
+  <text
+     id="text119"
+     style="fill:#000000;fill-opacity:1;stroke:none;stroke-dasharray:none;stroke-opacity:1"
+     x="487.52676"
+     y="244.55905">
+    <tspan
+       font-size="10"
+       font-weight="500"
+       x="490.14954"
+       y="254.55905"
+       textLength="33.354492"
+       id="tspan121"
+       style="font-weight:500;font-size:10px;font-family:Helvetica">Lecture</tspan>
+  </text>
+  <path
+     d="m 626.3189,446.7244 45.4921,20.41733 -45.4921,20.41732 -45.49213,-20.41732 z"
+     id="path123"
+     inkscape:connector-curvature="0"
+     style="fill:#ffffff;fill-opacity:1;stroke:none;stroke-dasharray:none;stroke-opacity:1" />
+  <path
+     d="m 626.3189,446.7244 45.4921,20.41733 -45.4921,20.41732 -45.49213,-20.41732 z"
+     id="path125"
+     inkscape:connector-curvature="0"
+     style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:1;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;stroke-opacity:1" />
+  <text
+     id="text127"
+     style="fill:#000000;fill-opacity:1;stroke:none;stroke-dasharray:none;stroke-opacity:1"
+     x="598.10962"
+     y="460.73337">
+    <tspan
+       font-size="10"
+       font-weight="500"
+       x="600.27075"
+       y="470.73337"
+       textLength="53.916016"
+       id="tspan129"
+       style="font-weight:500;font-size:10px;font-family:Helvetica">Successful?</tspan>
+  </text>
+  <rect
+     x="890.41339"
+     y="438.7244"
+     width="115"
+     height="46"
+     id="rect131"
+     style="fill:#ffffff;fill-opacity:1;stroke:none;stroke-dasharray:none;stroke-opacity:1" />
+  <rect
+     x="890.41339"
+     y="438.7244"
+     width="115"
+     height="46"
+     id="rect133"
+     style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:1;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;stroke-opacity:1" />
+  <text
+     id="text135"
+     style="fill:#000000;fill-opacity:1;stroke:none;stroke-dasharray:none;stroke-opacity:1"
+     x="895.41339"
+     y="449.7244">
+    <tspan
+       font-size="10"
+       font-weight="500"
+       x="903.72638"
+       y="459.7244"
+       textLength="88.374023"
+       id="tspan137"
+       style="font-weight:500;font-size:10px;font-family:Helvetica">Instructor Evaluates</tspan>
+    <tspan
+       font-size="10"
+       font-weight="500"
+       x="902.61798"
+       y="471.7244"
+       textLength="90.59082"
+       id="tspan139"
+       style="font-weight:500;font-size:10px;font-family:Helvetica">Against Eval Criteria</tspan>
+  </text>
+  <rect
+     x="466.08661"
+     y="337.32281"
+     width="81"
+     height="36"
+     id="rect141"
+     style="fill:#ffffff;fill-opacity:1;stroke:none;stroke-dasharray:none;stroke-opacity:1" />
+  <path
+     d="m 466.0866,337.32283 81,0 0,36 -81,0 z m 8.1,0 0,36 m 64.8,0 0,-36"
+     id="path143"
+     inkscape:connector-curvature="0"
+     style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:1;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;stroke-opacity:1" />
+  <text
+     id="text145"
+     style="fill:#000000;fill-opacity:1;stroke:none;stroke-dasharray:none;stroke-opacity:1"
+     x="479.18661"
+     y="343.32281">
+    <tspan
+       font-size="10"
+       font-weight="500"
+       x="484.90936"
+       y="353.32281"
+       textLength="46.132812"
+       id="tspan147"
+       style="font-weight:500;font-size:10px;font-family:Helvetica">Envision /</tspan>
+    <tspan
+       font-size="10"
+       font-weight="500"
+       x="496.57928"
+       y="365.32281"
+       textLength="20.014648"
+       id="tspan149"
+       style="font-weight:500;font-size:10px;font-family:Helvetica">Plan</tspan>
+  </text>
+  <rect
+     x="466.32678"
+     y="394.55905"
+     width="81"
+     height="36"
+     id="rect151"
+     style="fill:#ffffff;fill-opacity:1;stroke:none;stroke-dasharray:none;stroke-opacity:1" />
+  <path
+     d="m 466.32677,394.55905 81,0 0,36 -81,0 z m 8.1,0 0,36 m 64.8,0 0,-36"
+     id="path153"
+     inkscape:connector-curvature="0"
+     style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:1;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;stroke-opacity:1" />
+  <text
+     id="text155"
+     style="fill:#000000;fill-opacity:1;stroke:none;stroke-dasharray:none;stroke-opacity:1"
+     x="479.42676"
+     y="406.55905">
+    <tspan
+       font-size="10"
+       font-weight="500"
+       x="496.27014"
+       y="416.55905"
+       textLength="21.113281"
+       id="tspan157"
+       style="font-weight:500;font-size:10px;font-family:Helvetica">CAD</tspan>
+  </text>
+  <rect
+     x="466.32678"
+     y="285.55905"
+     width="81"
+     height="36"
+     id="rect159"
+     style="fill:#ffffff;fill-opacity:1;stroke:none;stroke-dasharray:none;stroke-opacity:1" />
+  <path
+     d="m 466.32677,285.55905 81,0 0,36 -81,0 z m 8.1,0 0,36 m 64.8,0 0,-36"
+     id="path161"
+     inkscape:connector-curvature="0"
+     style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:1;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;stroke-opacity:1" />
+  <text
+     id="text163"
+     style="fill:#000000;fill-opacity:1;stroke:none;stroke-dasharray:none;stroke-opacity:1"
+     x="479.42676"
+     y="297.55905">
+    <tspan
+       font-size="10"
+       font-weight="500"
+       x="489.87366"
+       y="307.55905"
+       textLength="36.68457"
+       id="tspan165"
+       style="font-weight:500;font-size:10px;font-family:Helvetica">Explore</tspan>
+  </text>
+  <line
+     x1="505.70865"
+     y1="189.74016"
+     x2="506.56833"
+     y2="222.66243"
+     id="line167"
+     style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:1;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#FilledArrow_Marker)" />
+  <line
+     x1="506.82678"
+     y1="268.55905"
+     x2="506.82678"
+     y2="275.65906"
+     id="line169"
+     style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:1;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#FilledArrow_Marker)" />
+  <line
+     x1="506.82678"
+     y1="321.55905"
+     x2="506.73743"
+     y2="327.42398"
+     id="line171"
+     style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:1;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#FilledArrow_Marker)" />
+  <line
+     x1="506.58661"
+     y1="373.32281"
+     x2="506.71481"
+     y2="384.6597"
+     id="line173"
+     style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:1;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#FilledArrow_Marker)" />
+  <line
+     x1="506.82678"
+     y1="430.55905"
+     x2="506.82678"
+     y2="439.65906"
+     id="line175"
+     style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:1;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#FilledArrow_Marker)" />
+  <line
+     x1="547.32678"
+     y1="467.55905"
+     x2="570.92755"
+     y2="467.26505"
+     id="line177"
+     style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:1;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#FilledArrow_Marker)" />
+  <path
+     d="m 300.47244,360 89.00787,0 0,50.00315 c -26.70236,-6.2504 -62.30551,18.75118 -89.00787,6.25039 z"
+     id="path179"
+     inkscape:connector-curvature="0"
+     style="fill:#3f99ff;fill-opacity:0.76999996;stroke:none;stroke-dasharray:none;stroke-opacity:1" />
+  <path
+     d="m 300.47244,360 89.00787,0 0,50.00315 c -26.70236,-6.2504 -62.30551,18.75118 -89.00787,6.25039 z"
+     id="path181"
+     inkscape:connector-curvature="0"
+     style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:1;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;stroke-opacity:1" />
+  <text
+     id="text183"
+     style="fill:#ffffff;fill-opacity:1;stroke:none;stroke-dasharray:none;stroke-opacity:1"
+     x="305.47244"
+     y="382.62677">
+    <tspan
+       font-size="9"
+       font-weight="bold"
+       x="305.64313"
+       y="391.62677"
+       textLength="51.996094"
+       id="tspan185"
+       style="font-weight:bold;font-size:9px;font-family:Helvetica;fill:#ffffff">DOCUMENT</tspan>
+    <tspan
+       font-size="9"
+       font-weight="bold"
+       x="356.97565"
+       y="391.62677"
+       textLength="6.4995117"
+       id="tspan187"
+       style="font-weight:bold;font-size:9px;font-family:Helvetica;fill:#ffffff">A</tspan>
+    <tspan
+       font-size="9"
+       font-weight="bold"
+       x="362.81158"
+       y="391.62677"
+       textLength="21.498047"
+       id="tspan189"
+       style="font-weight:bold;font-size:9px;font-family:Helvetica;fill:#ffffff">TION</tspan>
+  </text>
+  <path
+     d="m 466.32677,303.55905 -11.9,0 -12.22205,0 0,33.76378 0,32.6778 -40.82441,0 -2,0"
+     id="path191"
+     inkscape:connector-curvature="0"
+     style="fill:none;fill-opacity:1;stroke:#131313;stroke-width:1;stroke-linecap:round;stroke-linejoin:miter;stroke-dasharray:1, 4;stroke-opacity:1;marker-end:url(#Arrow_Marker)" />
+  <path
+     d="m 466.0866,355.32283 -11.9,0 -0.6433,0 0,16.01575 0,8.66268 -52.16299,0 -2,0"
+     id="path193"
+     inkscape:connector-curvature="0"
+     style="fill:none;fill-opacity:1;stroke:#131313;stroke-width:1;stroke-linecap:round;stroke-linejoin:miter;stroke-dasharray:1, 4;stroke-opacity:1;marker-end:url(#Arrow_Marker)" />
+  <path
+     d="m 466.32677,467.55905 -11.9,0 -9.3874,0 0,-31.02362 0,-36.53291 -43.65906,0 -2,0"
+     id="path195"
+     inkscape:connector-curvature="0"
+     style="fill:none;fill-opacity:1;stroke:#131313;stroke-width:1;stroke-linecap:round;stroke-linejoin:miter;stroke-dasharray:1, 4;stroke-opacity:1;marker-end:url(#Arrow_Marker)" />
+  <path
+     d="m 597.94015,343.84252 73.87085,0 -18.4677,36 -73.87086,0 z"
+     id="path197"
+     inkscape:connector-curvature="0"
+     style="fill:#ffffff;fill-opacity:1;stroke:none;stroke-dasharray:none;stroke-opacity:1" />
+  <path
+     d="m 597.94015,343.84252 73.87085,0 -18.4677,36 -73.87086,0 z"
+     id="path199"
+     inkscape:connector-curvature="0"
+     style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:1;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;stroke-opacity:1" />
+  <text
+     id="text201"
+     style="fill:#000000;fill-opacity:1;stroke:none;stroke-dasharray:none;stroke-opacity:1"
+     x="602.94012"
+     y="349.84253">
+    <tspan
+       font-size="10"
+       font-weight="500"
+       x="605.8175"
+       y="359.84253"
+       textLength="6.1083984"
+       id="tspan203"
+       style="font-weight:500;font-size:10px;font-family:Helvetica">T</tspan>
+    <tspan
+       font-size="10"
+       font-weight="500"
+       x="611.55969"
+       y="359.84253"
+       textLength="36.68457"
+       id="tspan205"
+       style="font-weight:500;font-size:10px;font-family:Helvetica">riage or</tspan>
+    <tspan
+       font-size="10"
+       font-weight="500"
+       x="604.70178"
+       y="371.84253"
+       textLength="6.1083984"
+       id="tspan207"
+       style="font-weight:500;font-size:10px;font-family:Helvetica">T</tspan>
+    <tspan
+       font-size="10"
+       font-weight="500"
+       x="610.44397"
+       y="371.84253"
+       textLength="11.1083984"
+       id="tspan209"
+       style="font-weight:500;font-size:10px;font-family:Helvetica">ry</tspan>
+    <tspan
+       font-size="10"
+       font-weight="500"
+       x="621.00549"
+       y="371.84253"
+       textLength="25.576172"
+       id="tspan211"
+       style="font-weight:500;font-size:10px;font-family:Helvetica">Again</tspan>
+  </text>
+  <path
+     d="m 626.3189,446.7244 0,-11.9 -0.3386,-21.54094 -0.33857,-21.54094 0,-2"
+     id="path213"
+     inkscape:connector-curvature="0"
+     style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:1;stroke-linecap:round;stroke-linejoin:miter;stroke-dasharray:8, 5;stroke-opacity:1;marker-end:url(#FilledArrow_Marker)" />
+  <path
+     d="m 466.32677,412.55905 -11.9,0 -0.31654,-12.87401 0,-9.68315 -52.72992,0 -2,0"
+     id="path215"
+     inkscape:connector-curvature="0"
+     style="fill:none;fill-opacity:1;stroke:#131313;stroke-width:1;stroke-linecap:round;stroke-linejoin:miter;stroke-dasharray:1, 4;stroke-opacity:1;marker-end:url(#Arrow_Marker)" />
+  <rect
+     x="612.61768"
+     y="410.0246"
+     width="27"
+     height="24"
+     id="rect217"
+     style="fill:#ffffff;fill-opacity:1;stroke:none;stroke-dasharray:none;stroke-opacity:1" />
+  <text
+     id="text219"
+     style="fill:#000000;fill-opacity:1;stroke:none;stroke-dasharray:none;stroke-opacity:1"
+     x="617.61768"
+     y="415.36508">
+    <tspan
+       font-size="11"
+       font-weight="bold"
+       x="617.76318"
+       y="426.36508"
+       textLength="16.709"
+       id="tspan221"
+       style="font-weight:bold;font-size:11px;font-family:'Helvetica Neue'">NO</tspan>
+  </text>
+  <path
+     d="m 625.64173,343.84252 0,-11.9 0,-28.38347 -78.31496,0 11.9,0 -2,0"
+     id="path223"
+     inkscape:connector-curvature="0"
+     style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:1;stroke-linecap:round;stroke-linejoin:miter;stroke-dasharray:8, 5;stroke-opacity:1;marker-end:url(#FilledArrow_Marker)" />
+  <path
+     d="m 593.15354,564.0945 88.44096,0 -22.11025,36 -88.44095,0 z"
+     id="path225"
+     inkscape:connector-curvature="0"
+     style="fill:#ffffff;fill-opacity:1;stroke:none;stroke-dasharray:none;stroke-opacity:1" />
+  <path
+     d="m 593.15354,564.0945 88.44096,0 -22.11025,36 -88.44095,0 z"
+     id="path227"
+     inkscape:connector-curvature="0"
+     style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:1;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;stroke-opacity:1" />
+  <text
+     id="text229"
+     style="fill:#000000;fill-opacity:1;stroke:none;stroke-dasharray:none;stroke-opacity:1"
+     x="598.15356"
+     y="576.09448">
+    <tspan
+       font-size="10"
+       font-weight="500"
+       x="614.73688"
+       y="586.09448"
+       textLength="9.4384766"
+       id="tspan231"
+       style="font-weight:500;font-size:10px;font-family:Helvetica">W</tspan>
+    <tspan
+       font-size="10"
+       font-weight="500"
+       x="623.99957"
+       y="586.09448"
+       textLength="13.901367"
+       id="tspan233"
+       style="font-weight:500;font-size:10px;font-family:Helvetica">oo!</tspan>
+  </text>
+  <path
+     d="m 626.4567,490.3937 -0.0689,30.9004 -0.0689,30.9004 0,2"
+     id="path235"
+     inkscape:connector-curvature="0"
+     style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:1;stroke-linecap:round;stroke-linejoin:miter;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#FilledArrow_Marker)" />
+  <rect
+     x="610.39246"
+     y="507.19775"
+     width="32"
+     height="24"
+     id="rect237"
+     style="fill:#ffffff;fill-opacity:1;stroke:none;stroke-dasharray:none;stroke-opacity:1" />
+  <text
+     id="text239"
+     style="fill:#000000;fill-opacity:1;stroke:none;stroke-dasharray:none;stroke-opacity:1"
+     x="615.39246"
+     y="512.53821">
+    <tspan
+       font-size="11"
+       font-weight="bold"
+       x="615.59045"
+       y="523.53821"
+       textLength="21.604"
+       id="tspan241"
+       style="font-weight:bold;font-size:11px;font-family:'Helvetica Neue'">YES</tspan>
+  </text>
+  <path
+     d="m 947.9134,504.56693 66.0818,36.85039 -66.0818,36.85038 -66.0818,-36.85038 z"
+     id="path243"
+     inkscape:connector-curvature="0"
+     style="fill:#218041;fill-opacity:1;stroke:none;stroke-dasharray:none;stroke-opacity:1" />
+  <path
+     d="m 947.9134,504.56693 66.0818,36.85039 -66.0818,36.85038 -66.0818,-36.85038 z"
+     id="path245"
+     inkscape:connector-curvature="0"
+     style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:1;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;stroke-opacity:1" />
+  <text
+     id="text247"
+     style="fill:#ffffff;fill-opacity:1;stroke:none;stroke-dasharray:none;stroke-opacity:1"
+     x="904.67371"
+     y="528.6803">
+    <tspan
+       font-size="10"
+       font-weight="bold"
+       x="930.62665"
+       y="538.6803"
+       textLength="37.216797"
+       id="tspan249"
+       style="font-weight:bold;font-size:10px;font-family:Helvetica;fill:#ffffff">Student</tspan>
+    <tspan
+       font-size="10"
+       font-weight="bold"
+       x="923.40009"
+       y="550.6803"
+       textLength="51.669922"
+       id="tspan251"
+       style="font-weight:bold;font-size:10px;font-family:Helvetica;fill:#ffffff">Complete?</tspan>
+  </text>
+  <rect
+     x="1156.5354"
+     y="518.74017"
+     width="99.212601"
+     height="42.519684"
+     id="rect253"
+     style="fill:#ffffff;fill-opacity:1;stroke:none;stroke-dasharray:none;stroke-opacity:1" />
+  <path
+     d="m 1156.5354,518.74015 99.2126,0 0,42.51969 -99.2126,0 z m 9.9213,0 0,42.51969 m 79.3701,0 0,-42.51969"
+     id="path255"
+     inkscape:connector-curvature="0"
+     style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:1;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;stroke-opacity:1" />
+  <text
+     id="text257"
+     style="fill:#000000;fill-opacity:1;stroke:none;stroke-dasharray:none;stroke-opacity:1"
+     x="1171.4567"
+     y="528">
+    <tspan
+       font-size="10"
+       font-weight="500"
+       x="1172.2404"
+       y="538"
+       textLength="70.581055"
+       id="tspan259"
+       style="font-weight:500;font-size:10px;font-family:Helvetica">Instructors give</tspan>
+    <tspan
+       font-size="10"
+       font-weight="500"
+       x="1185.8488"
+       y="550"
+       textLength="40.585938"
+       id="tspan261"
+       style="font-weight:500;font-size:10px;font-family:Helvetica">feedback</tspan>
+  </text>
+  <path
+     d="m 1013.9952,541.41732 11.9,0 59.3701,0 0,-0.70866 0,-0.70866 59.3701,0 2,0"
+     id="path263"
+     inkscape:connector-curvature="0"
+     style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:1;stroke-linecap:round;stroke-linejoin:miter;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#FilledArrow_Marker)" />
+  <rect
+     x="992.12598"
+     y="837.07086"
+     width="119.05512"
+     height="36"
+     id="rect265"
+     style="fill:#ffffff;fill-opacity:1;stroke:none;stroke-dasharray:none;stroke-opacity:1" />
+  <path
+     d="m 992.126,837.07086 119.0551,0 0,36 -119.0551,0 z m 11.9055,0 0,36 m 95.2441,0 0,-36"
+     id="path267"
+     inkscape:connector-curvature="0"
+     style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:1;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;stroke-opacity:1" />
+  <text
+     id="text269"
+     style="fill:#000000;fill-opacity:1;stroke:none;stroke-dasharray:none;stroke-opacity:1"
+     x="1009.0315"
+     y="843.07086">
+    <tspan
+       font-size="10"
+       font-weight="500"
+       x="1013.3137"
+       y="853.07086"
+       textLength="79.45801"
+       id="tspan271"
+       style="font-weight:500;font-size:10px;font-family:Helvetica">Instructors marks</tspan>
+    <tspan
+       font-size="10"
+       font-weight="500"
+       x="1031.3655"
+       y="865.07086"
+       textLength="40.576172"
+       id="tspan273"
+       style="font-weight:500;font-size:10px;font-family:Helvetica">complete</tspan>
+  </text>
+  <path
+     d="m 62.362204,470.55118 89.999996,0 -18,36 -53.999996,0 z"
+     id="path275"
+     inkscape:connector-curvature="0"
+     style="fill:#ffffff;fill-opacity:1;stroke:none;stroke-dasharray:none;stroke-opacity:1" />
+  <path
+     d="m 62.362204,470.55118 89.999996,0 -18,36 -53.999996,0 z"
+     id="path277"
+     inkscape:connector-curvature="0"
+     style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:1;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;stroke-opacity:1" />
+  <text
+     id="text279"
+     style="fill:#000000;fill-opacity:1;stroke:none;stroke-dasharray:none;stroke-opacity:1"
+     x="73.662201"
+     y="475.83118">
+    <tspan
+       font-size="10"
+       font-weight="500"
+       x="92.206635"
+       y="485.83118"
+       textLength="36.689453"
+       id="tspan281"
+       style="font-weight:500;font-size:10px;font-family:Helvetica">Push to</tspan>
+    <tspan
+       font-size="10"
+       font-weight="500"
+       x="92.489838"
+       y="497.83118"
+       textLength="33.344727"
+       id="tspan283"
+       style="font-weight:500;font-size:10px;font-family:Helvetica">Archive</tspan>
+  </text>
+  <path
+     d="m 139.1811,250.86614 11.9,0 155.72284,-0.15354 155.72283,-0.15355 2,0"
+     id="path285"
+     inkscape:connector-curvature="0"
+     style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:1;stroke-linecap:round;stroke-linejoin:miter;stroke-dasharray:8, 5;stroke-opacity:1;marker-end:url(#FilledArrow_Marker)" />
+  <path
+     d="m 107.3622,327.6693 45.49213,20.41731 -45.49213,20.41732 -45.49212,-20.41732 z"
+     id="path287"
+     inkscape:connector-curvature="0"
+     style="fill:#ffffff;fill-opacity:1;stroke:none;stroke-dasharray:none;stroke-opacity:1" />
+  <path
+     d="m 107.3622,327.6693 45.49213,20.41731 -45.49213,20.41732 -45.49212,-20.41732 z"
+     id="path289"
+     inkscape:connector-curvature="0"
+     style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:1;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;stroke-opacity:1" />
+  <text
+     id="text291"
+     style="fill:#000000;fill-opacity:1;stroke:none;stroke-dasharray:none;stroke-opacity:1"
+     x="79.152954"
+     y="341.67828">
+    <tspan
+       font-size="10"
+       font-weight="500"
+       x="81.314041"
+       y="351.67828"
+       textLength="53.916016"
+       id="tspan293"
+       style="font-weight:500;font-size:10px;font-family:Helvetica">Successful?</tspan>
+  </text>
+  <path
+     d="m 107.3622,470.55118 0,-11.9 0,-39.12362 0,-39.12363 0,-2"
+     id="path295"
+     inkscape:connector-curvature="0"
+     style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:1;stroke-linecap:round;stroke-linejoin:miter;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#FilledArrow_Marker)" />
+  <path
+     d="m 81.637795,232.44094 65.763775,0 -16.44094,36.8504 -65.76378,0 z"
+     id="path297"
+     inkscape:connector-curvature="0"
+     style="fill:#ffffff;fill-opacity:1;stroke:none;stroke-dasharray:none;stroke-opacity:1" />
+  <path
+     d="m 81.637795,232.44094 65.763775,0 -16.44094,36.8504 -65.76378,0 z"
+     id="path299"
+     inkscape:connector-curvature="0"
+     style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:1;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;stroke-opacity:1" />
+  <text
+     id="text301"
+     style="fill:#000000;fill-opacity:1;stroke:none;stroke-dasharray:none;stroke-opacity:1"
+     x="86.637794"
+     y="244.86613">
+    <tspan
+       font-size="10"
+       font-weight="500"
+       x="92.405167"
+       y="254.86613"
+       textLength="27.788086"
+       id="tspan303"
+       style="font-weight:500;font-size:10px;font-family:Helvetica">Great!</tspan>
+  </text>
+  <path
+     d="m 107.3622,327.6693 0,-11.9 0,-17.28899 -0.53149,0 -0.5315,0 0,-17.28897 0,-2"
+     id="path305"
+     inkscape:connector-curvature="0"
+     style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:1;stroke-linecap:round;stroke-linejoin:miter;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#FilledArrow_Marker)" />
+  <rect
+     x="91.362206"
+     y="289.13113"
+     width="32"
+     height="24"
+     id="rect307"
+     style="fill:#ffffff;fill-opacity:1;stroke:none;stroke-dasharray:none;stroke-opacity:1" />
+  <text
+     id="text309"
+     style="fill:#000000;fill-opacity:1;stroke:none;stroke-dasharray:none;stroke-opacity:1"
+     x="96.362206"
+     y="294.47159">
+    <tspan
+       font-size="11"
+       font-weight="bold"
+       x="96.560204"
+       y="305.47159"
+       textLength="21.604"
+       id="tspan311"
+       style="font-weight:bold;font-size:11px;font-family:'Helvetica Neue'">YES</tspan>
+  </text>
+  <path
+     d="m 582.09842,582.0945 -11.9,0 -16.80669,0 -16.8067,0 -2,0"
+     id="path313"
+     inkscape:connector-curvature="0"
+     style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:1;stroke-linecap:round;stroke-linejoin:miter;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#FilledArrow_Marker)" />
+  <path
+     d="m 466.56108,608.1811 0,11.9 0,46.7063 -293.6477,0 -65.55118,0 0,-148.33622 0,-2"
+     id="path315"
+     inkscape:connector-curvature="0"
+     style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:1;stroke-linecap:round;stroke-linejoin:miter;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#FilledArrow_Marker)" />
+  <rect
+     x="221.14668"
+     y="655.28741"
+     width="30"
+     height="23"
+     id="rect317"
+     style="fill:#ffffff;fill-opacity:1;stroke:none;stroke-dasharray:none;stroke-opacity:1" />
+  <text
+     id="text319"
+     style="fill:#000000;fill-opacity:1;stroke:none;stroke-dasharray:none;stroke-opacity:1"
+     x="226.14668"
+     y="660.64233">
+    <tspan
+       font-size="10"
+       font-weight="bold"
+       x="226.32669"
+       y="670.64233"
+       textLength="19.64"
+       id="tspan321"
+       style="font-weight:bold;font-size:10px;font-family:'Helvetica Neue'">YES</tspan>
+  </text>
+  <path
+     d="m 408.43713,582.0945 -11.9,0 -44.71503,0 0,-0.99214 0,-0.99213 -44.71502,0 -2,0"
+     id="path323"
+     inkscape:connector-curvature="0"
+     style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:1;stroke-linecap:round;stroke-linejoin:miter;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#FilledArrow_Marker)" />
+  <rect
+     x="339.91379"
+     y="570.09448"
+     width="27"
+     height="24"
+     id="rect325"
+     style="fill:#ffffff;fill-opacity:1;stroke:none;stroke-dasharray:none;stroke-opacity:1" />
+  <text
+     id="text327"
+     style="fill:#000000;fill-opacity:1;stroke:none;stroke-dasharray:none;stroke-opacity:1"
+     x="344.91379"
+     y="575.43494">
+    <tspan
+       font-size="11"
+       font-weight="bold"
+       x="345.0593"
+       y="586.43494"
+       textLength="16.709"
+       id="tspan329"
+       style="font-weight:bold;font-size:11px;font-family:'Helvetica Neue'">NO</tspan>
+  </text>
+  <path
+     d="m 238.50708,562.11023 64.8,0 -16.2,36 -64.8,0 z"
+     id="path331"
+     inkscape:connector-curvature="0"
+     style="fill:#ffffff;fill-opacity:1;stroke:none;stroke-dasharray:none;stroke-opacity:1" />
+  <path
+     d="m 238.50708,562.11023 64.8,0 -16.2,36 -64.8,0 z"
+     id="path333"
+     inkscape:connector-curvature="0"
+     style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:1;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;stroke-opacity:1" />
+  <text
+     id="text335"
+     style="fill:#000000;fill-opacity:1;stroke:none;stroke-dasharray:none;stroke-opacity:1"
+     x="243.50708"
+     y="574.11023">
+    <tspan
+       font-size="10"
+       font-weight="500"
+       x="246.68404"
+       y="584.11023"
+       textLength="32.246094"
+       id="tspan337"
+       style="font-weight:500;font-size:10px;font-family:Helvetica">Update</tspan>
+  </text>
+  <path
+     d="m 262.80708,562.11023 0,-11.9 0,-31.47008 26.32678,0 27.18007,0 0,-87.05703 0,-2"
+     id="path339"
+     inkscape:connector-curvature="0"
+     style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:1;stroke-linecap:round;stroke-linejoin:miter;stroke-dasharray:8, 5;stroke-opacity:1;marker-end:url(#FilledArrow_Marker)" />
+  <path
+     d="m 466.56108,556.00787 58.12395,26.08663 -58.12395,26.0866 -58.12395,-26.0866 z"
+     id="path341"
+     inkscape:connector-curvature="0"
+     style="fill:#ffffff;fill-opacity:1;stroke:none;stroke-dasharray:none;stroke-opacity:1" />
+  <path
+     d="m 466.56108,556.00787 58.12395,26.08663 -58.12395,26.0866 -58.12395,-26.0866 z"
+     id="path343"
+     inkscape:connector-curvature="0"
+     style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:1;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;stroke-opacity:1" />
+  <text
+     id="text345"
+     style="fill:#000000;fill-opacity:1;stroke:none;stroke-dasharray:none;stroke-opacity:1"
+     x="429.13062"
+     y="569.57275">
+    <tspan
+       font-size="10"
+       font-weight="500"
+       x="434.0932"
+       y="579.57275"
+       textLength="70.039062"
+       id="tspan347"
+       style="font-weight:500;font-size:10px;font-family:Helvetica">Documentation</tspan>
+    <tspan
+       font-size="10"
+       font-weight="500"
+       x="443.54388"
+       y="591.57275"
+       textLength="48.359375"
+       id="tspan349"
+       style="font-weight:500;font-size:10px;font-family:Helvetica">Complete?</tspan>
+  </text>
+  <path
+     d="m 184.64882,400.53543 64.8,0 -16.2,36 -64.8,0 z"
+     id="path351"
+     inkscape:connector-curvature="0"
+     style="fill:#ffffff;fill-opacity:1;stroke:none;stroke-dasharray:none;stroke-opacity:1" />
+  <path
+     d="m 184.64882,400.53543 64.8,0 -16.2,36 -64.8,0 z"
+     id="path353"
+     inkscape:connector-curvature="0"
+     style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:1;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;stroke-opacity:1" />
+  <text
+     id="text355"
+     style="fill:#000000;fill-opacity:1;stroke:none;stroke-dasharray:none;stroke-opacity:1"
+     x="189.64882"
+     y="412.53543">
+    <tspan
+       font-size="10"
+       font-weight="500"
+       x="194.95956"
+       y="422.53543"
+       textLength="6.1083984"
+       id="tspan357"
+       style="font-weight:500;font-size:10px;font-family:Helvetica">T</tspan>
+    <tspan
+       font-size="10"
+       font-weight="500"
+       x="200.70175"
+       y="422.53543"
+       textLength="22.236328"
+       id="tspan359"
+       style="font-weight:500;font-size:10px;font-family:Helvetica">riage</tspan>
+  </text>
+  <path
+     d="m 152.85433,348.08661 11.9,0 44.19449,0 0,52.44882 0,-11.9 0,2"
+     id="path361"
+     inkscape:connector-curvature="0"
+     style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:1;stroke-linecap:round;stroke-linejoin:miter;stroke-dasharray:8, 5;stroke-opacity:1;marker-end:url(#FilledArrow_Marker)" />
+  <rect
+     x="175.10216"
+     y="336.08661"
+     width="27"
+     height="24"
+     id="rect363"
+     style="fill:#ffffff;fill-opacity:1;stroke:none;stroke-dasharray:none;stroke-opacity:1" />
+  <text
+     id="text365"
+     style="fill:#000000;fill-opacity:1;stroke:none;stroke-dasharray:none;stroke-opacity:1"
+     x="180.10216"
+     y="341.42706">
+    <tspan
+       font-size="11"
+       font-weight="bold"
+       x="180.24767"
+       y="352.42706"
+       textLength="16.709"
+       id="tspan367"
+       style="font-weight:bold;font-size:11px;font-family:'Helvetica Neue'">NO</tspan>
+  </text>
+  <path
+     d="m 153.2622,488.55118 2,0 53.68662,0 0,-52.01575 0,11.9 0,-11.9"
+     id="path369"
+     inkscape:connector-curvature="0"
+     style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:1;stroke-linecap:round;stroke-linejoin:miter;stroke-dasharray:8, 5;stroke-opacity:1;marker-start:url(#FilledArrow_Marker_2)" />
+  <path
+     d="m 337.09055,751.1811 77,0 c 9.108,0 16.5,6.944 16.5,15.5 0,8.556 -7.392,15.5 -16.5,15.5 l -77,0 c -9.108,0 -16.5,-6.944 -16.5,-15.5 0,-8.556 7.392,-15.5 16.5,-15.5"
+     id="path371"
+     inkscape:connector-curvature="0"
+     style="fill:#cccccc;fill-opacity:1;stroke:none;stroke-dasharray:none;stroke-opacity:1" />
+  <path
+     d="m 337.09055,751.1811 77,0 c 9.108,0 16.5,6.944 16.5,15.5 0,8.556 -7.392,15.5 -16.5,15.5 l -77,0 c -9.108,0 -16.5,-6.944 -16.5,-15.5 0,-8.556 7.392,-15.5 16.5,-15.5"
+     id="path373"
+     inkscape:connector-curvature="0"
+     style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:1;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;stroke-opacity:1" />
+  <text
+     id="text375"
+     style="fill:#000000;fill-opacity:1;stroke:none;stroke-dasharray:none;stroke-opacity:1"
+     x="336.59055"
+     y="760.68109">
+    <tspan
+       font-size="10"
+       font-weight="500"
+       x="350.30246"
+       y="770.68109"
+       textLength="50.576172"
+       id="tspan377"
+       style="font-weight:500;font-size:10px;font-family:Helvetica">Class Ends</tspan>
+  </text>
+  <text
+     id="text379"
+     style="fill:#000000;fill-opacity:1;stroke:none;stroke-dasharray:none;stroke-opacity:1"
+     x="523.14569"
+     y="750.64124">
+    <tspan
+       font-size="13"
+       font-style="italic"
+       font-weight="bold"
+       x="523.14569"
+       y="763.64124"
+       textLength="65.013"
+       id="tspan381"
+       style="font-style:italic;font-weight:bold;font-size:13px;font-family:'Helvetica Neue'">June 10th</tspan>
+    <tspan
+       font-size="13"
+       font-style="italic"
+       font-weight="500"
+       x="523.14569"
+       y="779.01837"
+       textLength="6.747"
+       id="tspan383"
+       style="font-style:italic;font-weight:500;font-size:13px;font-family:'Helvetica Neue'">fi</tspan>
+    <tspan
+       font-size="13"
+       font-style="italic"
+       font-weight="500"
+       x="529.8927"
+       y="779.01837"
+       textLength="32.513"
+       id="tspan385"
+       style="font-style:italic;font-weight:500;font-size:13px;font-family:'Helvetica Neue'">nal pr</tspan>
+    <tspan
+       font-size="13"
+       font-style="italic"
+       font-weight="500"
+       x="562.17169"
+       y="779.01837"
+       textLength="44.057"
+       id="tspan387"
+       style="font-style:italic;font-weight:500;font-size:13px;font-family:'Helvetica Neue'">oject pr</tspan>
+    <tspan
+       font-size="13"
+       font-style="italic"
+       font-weight="500"
+       x="605.99469"
+       y="779.01837"
+       textLength="66.209"
+       id="tspan389"
+       style="font-style:italic;font-weight:500;font-size:13px;font-family:'Helvetica Neue'">esentations</tspan>
+  </text>
+  <path
+     d="m 430.59055,766.6811 7,0 76.77755,-0.0847 3.77757,-0.004"
+     id="path391"
+     inkscape:connector-curvature="0"
+     style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:1;stroke-linecap:round;stroke-linejoin:miter;stroke-dasharray:none;stroke-opacity:1" />
+  <path
+     d="m 375.59055,697.32283 0,11.9 0,15.02913 0,15.02914 0,2"
+     id="path393"
+     inkscape:connector-curvature="0"
+     style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:1;stroke-linecap:round;stroke-linejoin:miter;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#FilledArrow_Marker)" />
+  <path
+     d="m 467.20866,158.74016 77,0 c 9.108,0 16.5,6.944 16.5,15.5 0,8.556 -7.392,15.5 -16.5,15.5 l -77,0 c -9.108,0 -16.5,-6.944 -16.5,-15.5 0,-8.556 7.392,-15.5 16.5,-15.5"
+     id="path395"
+     inkscape:connector-curvature="0"
+     style="fill:#cccccc;fill-opacity:1;stroke:none;stroke-dasharray:none;stroke-opacity:1" />
+  <path
+     d="m 467.20866,158.74016 77,0 c 9.108,0 16.5,6.944 16.5,15.5 0,8.556 -7.392,15.5 -16.5,15.5 l -77,0 c -9.108,0 -16.5,-6.944 -16.5,-15.5 0,-8.556 7.392,-15.5 16.5,-15.5"
+     id="path397"
+     inkscape:connector-curvature="0"
+     style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:1;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;stroke-opacity:1" />
+  <text
+     id="text399"
+     style="fill:#000000;fill-opacity:1;stroke:none;stroke-dasharray:none;stroke-opacity:1"
+     x="466.70865"
+     y="168.24016">
+    <tspan
+       font-size="10"
+       font-weight="500"
+       x="476.52896"
+       y="178.24016"
+       textLength="58.359375"
+       id="tspan401"
+       style="font-weight:500;font-size:10px;font-family:Helvetica">Class Begins</tspan>
+  </text>
+  <text
+     id="text403"
+     style="fill:#000000;fill-opacity:1;stroke:none;stroke-dasharray:none;stroke-opacity:1"
+     x="590.79919"
+     y="166.88626">
+    <tspan
+       font-size="13"
+       font-style="italic"
+       font-weight="bold"
+       x="590.96667"
+       y="179.88626"
+       textLength="80.665"
+       id="tspan405"
+       style="font-style:italic;font-weight:bold;font-size:13px;font-family:'Helvetica Neue'">January 28th</tspan>
+  </text>
+  <path
+     d="m 560.70866,174.24016 7,0 18.09054,0.26681"
+     id="path407"
+     inkscape:connector-curvature="0"
+     style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:1;stroke-linecap:round;stroke-linejoin:miter;stroke-dasharray:none;stroke-opacity:1" />
+  <path
+     d="m 352.99665,413.43235 0,11.9 0,96.24245 55.19232,0 58.37211,0 0,22.53307 0,2"
+     id="path409"
+     inkscape:connector-curvature="0"
+     style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:1;stroke-linecap:round;stroke-linejoin:miter;stroke-dasharray:8, 5;stroke-opacity:1;marker-end:url(#FilledArrow_Marker)" />
+  <path
+     d="m 892.3543,229.6063 111.1181,0 c 13.1437,0 23.8111,6.944 23.8111,15.5 0,8.556 -10.6674,15.5 -23.8111,15.5 l -111.1181,0 c -13.14366,0 -23.811,-6.944 -23.811,-15.5 0,-8.556 10.66734,-15.5 23.811,-15.5"
+     id="path411"
+     inkscape:connector-curvature="0"
+     style="fill:#cccccc;fill-opacity:1;stroke:none;stroke-dasharray:none;stroke-opacity:1" />
+  <path
+     d="m 892.3543,229.6063 111.1181,0 c 13.1437,0 23.8111,6.944 23.8111,15.5 0,8.556 -10.6674,15.5 -23.8111,15.5 l -111.1181,0 c -13.14366,0 -23.811,-6.944 -23.811,-15.5 0,-8.556 10.66734,-15.5 23.811,-15.5"
+     id="path413"
+     inkscape:connector-curvature="0"
+     style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:1;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;stroke-opacity:1" />
+  <text
+     id="text415"
+     style="fill:#000000;fill-opacity:1;stroke:none;stroke-dasharray:none;stroke-opacity:1"
+     x="889.4173"
+     y="233.10629">
+    <tspan
+       font-size="10"
+       font-weight="500"
+       x="898.99493"
+       y="243.10629"
+       textLength="100.615234"
+       id="tspan417"
+       style="font-weight:500;font-size:10px;font-family:Helvetica">Final Local Evaluation</tspan>
+    <tspan
+       font-size="10"
+       font-weight="500"
+       x="932.62531"
+       y="255.10629"
+       textLength="30.576172"
+       id="tspan419"
+       style="font-weight:500;font-size:10px;font-family:Helvetica">Begins</tspan>
+  </text>
+  <text
+     id="text421"
+     style="fill:#000000;fill-opacity:1;stroke:none;stroke-dasharray:none;stroke-opacity:1"
+     x="1217.3583"
+     y="284.03702">
+    <tspan
+       font-size="15"
+       font-style="italic"
+       font-weight="bold"
+       x="1217.3583"
+       y="299.03702"
+       textLength="70.845"
+       id="tspan423"
+       style="font-style:italic;font-weight:bold;font-size:15px;font-family:'Helvetica Neue'">June 24th</tspan>
+    <tspan
+       font-size="15"
+       font-style="italic"
+       font-weight="500"
+       x="1217.3583"
+       y="316.47211"
+       textLength="169.755"
+       id="tspan425"
+       style="font-style:italic;font-weight:500;font-size:15px;font-family:'Helvetica Neue'">All student work due in ar</tspan>
+    <tspan
+       font-size="15"
+       font-style="italic"
+       font-weight="500"
+       x="1386.8433"
+       y="316.47211"
+       textLength="34.995"
+       id="tspan427"
+       style="font-style:italic;font-weight:500;font-size:15px;font-family:'Helvetica Neue'">chive</tspan>
+  </text>
+  <path
+     d="m 992.13385,301.46457 7,0 156.86225,0.25 56.3622,0.0898"
+     id="path429"
+     inkscape:connector-curvature="0"
+     style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:1;stroke-linecap:round;stroke-linejoin:miter;stroke-dasharray:none;stroke-opacity:1" />
+  <path
+     d="m 947.9134,325.13386 0,11.9 0,44.89527 0,44.89527 0,2"
+     id="path431"
+     inkscape:connector-curvature="0"
+     style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:1;stroke-linecap:round;stroke-linejoin:miter;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#FilledArrow_Marker)" />
+  <path
+     d="m 914.748,277.79527 88.441,0 -22.11027,47.33859 -88.44093,0 z"
+     id="path433"
+     inkscape:connector-curvature="0"
+     style="fill:#e21d28;fill-opacity:1;stroke:none;stroke-dasharray:none;stroke-opacity:1" />
+  <path
+     d="m 914.748,277.79527 88.441,0 -22.11027,47.33859 -88.44093,0 z"
+     id="path435"
+     inkscape:connector-curvature="0"
+     style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:1;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;stroke-opacity:1" />
+  <text
+     id="text437"
+     style="fill:#ffffff;fill-opacity:1;stroke:none;stroke-dasharray:none;stroke-opacity:1"
+     x="919.74799"
+     y="283.46457">
+    <tspan
+       font-size="10"
+       font-weight="500"
+       x="930.677"
+       y="293.46457"
+       textLength="37.250977"
+       id="tspan439"
+       style="font-weight:500;font-size:10px;font-family:Helvetica;fill:#ffffff">Student</tspan>
+    <tspan
+       font-size="10"
+       font-weight="500"
+       x="925.77466"
+       y="305.46457"
+       textLength="9.4384766"
+       id="tspan441"
+       style="font-weight:500;font-size:10px;font-family:Helvetica;fill:#ffffff">W</tspan>
+    <tspan
+       font-size="10"
+       font-weight="500"
+       x="935.03735"
+       y="305.46457"
+       textLength="37.792969"
+       id="tspan443"
+       style="font-weight:500;font-size:10px;font-family:Helvetica;fill:#ffffff">ork Due</tspan>
+    <tspan
+       font-size="10"
+       font-weight="500"
+       x="925.95532"
+       y="317.46457"
+       textLength="11.118164"
+       id="tspan445"
+       style="font-weight:500;font-size:10px;font-family:Helvetica;fill:#ffffff">In</tspan>
+    <tspan
+       font-size="10"
+       font-weight="500"
+       x="936.52661"
+       y="317.46457"
+       textLength="33.344727"
+       id="tspan447"
+       style="font-weight:500;font-size:10px;font-family:Helvetica;fill:#ffffff">Archive</tspan>
+  </text>
+  <path
+     d="m 947.9134,260.6063 0,11.9 0,-3.30551 0,-3.30552 0,2"
+     id="path449"
+     inkscape:connector-curvature="0"
+     style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:1;stroke-linecap:round;stroke-linejoin:miter;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#FilledArrow_Marker)" />
+  <circle
+     cx="375.59055"
+     cy="826.05511"
+     r="13.000021"
+     id="circle451"
+     style="fill:#000000;fill-opacity:1;stroke:none;stroke-dasharray:none;stroke-opacity:1" />
+  <circle
+     cx="375.59055"
+     cy="826.05511"
+     r="13.000021"
+     id="circle453"
+     style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:1;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;stroke-opacity:1" />
+  <text
+     id="text455"
+     style="fill:#ffffff;fill-opacity:1;stroke:none;stroke-dasharray:none;stroke-opacity:1"
+     x="370.19055"
+     y="820.05511">
+    <tspan
+       font-size="10"
+       font-weight="bold"
+       x="371.97971"
+       y="830.05511"
+       textLength="7.2216797"
+       id="tspan457"
+       style="font-weight:bold;font-size:10px;font-family:Helvetica;fill:#ffffff">A</tspan>
+  </text>
+  <path
+     d="m 375.59055,782.1811 0,11.9 0,3.537 0,3.537 0,2"
+     id="path459"
+     inkscape:connector-curvature="0"
+     style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:1;stroke-linecap:round;stroke-linejoin:miter;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#FilledArrow_Marker)" />
+  <circle
+     cx="947.91339"
+     cy="140.07086"
+     r="13.000021"
+     id="circle461"
+     style="fill:#000000;fill-opacity:1;stroke:none;stroke-dasharray:none;stroke-opacity:1" />
+  <circle
+     cx="947.91339"
+     cy="140.07086"
+     r="13.000021"
+     id="circle463"
+     style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:1;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;stroke-opacity:1" />
+  <text
+     id="text465"
+     style="fill:#ffffff;fill-opacity:1;stroke:none;stroke-dasharray:none;stroke-opacity:1"
+     x="942.51343"
+     y="134.07086">
+    <tspan
+       font-size="10"
+       font-weight="bold"
+       x="944.30255"
+       y="144.07086"
+       textLength="7.2216797"
+       id="tspan467"
+       style="font-weight:bold;font-size:10px;font-family:Helvetica;fill:#ffffff">A</tspan>
+  </text>
+  <path
+     d="m 947.9134,153.07087 0,11.9 0,-3.30551 0,-3.30552 0,2"
+     id="path469"
+     inkscape:connector-curvature="0"
+     style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:1;stroke-linecap:round;stroke-linejoin:miter;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#FilledArrow_Marker)" />
+  <path
+     d="m 909.4134,170.25984 77,0 c 9.108,0 16.5,6.944 16.5,15.5 0,8.556 -7.392,15.5 -16.5,15.5 l -77,0 c -9.108,0 -16.5,-6.944 -16.5,-15.5 0,-8.556 7.392,-15.5 16.5,-15.5"
+     id="path471"
+     inkscape:connector-curvature="0"
+     style="fill:#cccccc;fill-opacity:1;stroke:none;stroke-dasharray:none;stroke-opacity:1" />
+  <path
+     d="m 909.4134,170.25984 77,0 c 9.108,0 16.5,6.944 16.5,15.5 0,8.556 -7.392,15.5 -16.5,15.5 l -77,0 c -9.108,0 -16.5,-6.944 -16.5,-15.5 0,-8.556 7.392,-15.5 16.5,-15.5"
+     id="path473"
+     inkscape:connector-curvature="0"
+     style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:1;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;stroke-opacity:1" />
+  <text
+     id="text475"
+     style="fill:#000000;fill-opacity:1;stroke:none;stroke-dasharray:none;stroke-opacity:1"
+     x="908.91339"
+     y="179.75984">
+    <tspan
+       font-size="10"
+       font-weight="500"
+       x="922.62531"
+       y="189.75984"
+       textLength="50.576172"
+       id="tspan477"
+       style="font-weight:500;font-size:10px;font-family:Helvetica">Class Ends</tspan>
+  </text>
+  <text
+     id="text479"
+     style="fill:#000000;fill-opacity:1;stroke:none;stroke-dasharray:none;stroke-opacity:1"
+     x="1217.3583"
+     y="168.15118">
+    <tspan
+       font-size="15"
+       font-style="italic"
+       font-weight="bold"
+       x="1217.3583"
+       y="183.15118"
+       textLength="75.015"
+       id="tspan481"
+       style="font-style:italic;font-weight:bold;font-size:15px;font-family:'Helvetica Neue'">June 10th</tspan>
+    <tspan
+       font-size="15"
+       font-style="italic"
+       font-weight="500"
+       x="1217.3583"
+       y="200.58629"
+       textLength="7.785"
+       id="tspan483"
+       style="font-style:italic;font-weight:500;font-size:15px;font-family:'Helvetica Neue'">fi</tspan>
+    <tspan
+       font-size="15"
+       font-style="italic"
+       font-weight="500"
+       x="1225.1433"
+       y="200.58629"
+       textLength="37.515"
+       id="tspan485"
+       style="font-style:italic;font-weight:500;font-size:15px;font-family:'Helvetica Neue'">nal pr</tspan>
+    <tspan
+       font-size="15"
+       font-style="italic"
+       font-weight="500"
+       x="1262.3883"
+       y="200.58629"
+       textLength="50.835"
+       id="tspan487"
+       style="font-style:italic;font-weight:500;font-size:15px;font-family:'Helvetica Neue'">oject pr</tspan>
+    <tspan
+       font-size="15"
+       font-style="italic"
+       font-weight="500"
+       x="1312.9532"
+       y="200.58629"
+       textLength="76.395"
+       id="tspan489"
+       style="font-style:italic;font-weight:500;font-size:15px;font-family:'Helvetica Neue'">esentations</tspan>
+  </text>
+  <path
+     d="m 1002.9134,185.75984 7,0 143.2224,0.15945 59.2225,0.0659"
+     id="path491"
+     inkscape:connector-curvature="0"
+     style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:1;stroke-linecap:round;stroke-linejoin:miter;stroke-dasharray:none;stroke-opacity:1" />
+  <path
+     d="m 947.9134,201.25984 0,11.9 0,2.27323 0,2.27323 0,2"
+     id="path493"
+     inkscape:connector-curvature="0"
+     style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:1;stroke-linecap:round;stroke-linejoin:miter;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#FilledArrow_Marker)" />
+  <text
+     id="text495"
+     style="fill:#000000;fill-opacity:1;stroke:none;stroke-dasharray:none;stroke-opacity:1"
+     x="1217.3583"
+     y="235.38887">
+    <tspan
+       font-size="13"
+       font-weight="500"
+       x="1217.3583"
+       y="247.38887"
+       textLength="7.462"
+       id="tspan497"
+       style="font-weight:500;font-size:13px;font-family:'Helvetica Neue'">T</tspan>
+    <tspan
+       font-size="13"
+       font-weight="500"
+       x="1223.3773"
+       y="247.38887"
+       textLength="99.645"
+       id="tspan499"
+       style="font-weight:500;font-size:13px;font-family:'Helvetica Neue'">wo weeks elapse</tspan>
+  </text>
+  <path
+     d="m 947.9134,212.07545 7,0 154.2224,0 0,15.49771 0,15.4977 103.2225,0"
+     id="path501"
+     inkscape:connector-curvature="0"
+     style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:1;stroke-linecap:round;stroke-linejoin:miter;stroke-dasharray:none;stroke-opacity:1" />
+  <text
+     id="text503"
+     style="fill:#000000;fill-opacity:1;stroke:none;stroke-dasharray:none;stroke-opacity:1"
+     x="1160.6654"
+     y="364.82327">
+    <tspan
+       font-size="13"
+       font-style="italic"
+       font-weight="bold"
+       x="1160.6654"
+       y="377.82327"
+       textLength="7.943"
+       id="tspan505"
+       style="font-style:italic;font-weight:bold;font-size:13px;font-family:'Helvetica Neue'">T</tspan>
+    <tspan
+       font-size="13"
+       font-style="italic"
+       font-weight="bold"
+       x="1167.1654"
+       y="377.82327"
+       textLength="105.469"
+       id="tspan507"
+       style="font-style:italic;font-weight:bold;font-size:13px;font-family:'Helvetica Neue'">wo weeks elapse</tspan>
+  </text>
+  <path
+     d="m 947.9134,484.7244 0,11.9 0,-1.97873 0,-1.97874 0,2"
+     id="path509"
+     inkscape:connector-curvature="0"
+     style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:1;stroke-linecap:round;stroke-linejoin:miter;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#FilledArrow_Marker)" />
+  <path
+     d="m 892.9134,337.32283 97.95916,0 0,58.77551 c -29.38776,-7.34694 -68.57142,22.04082 -97.95916,7.34694 z"
+     id="path511"
+     inkscape:connector-curvature="0"
+     style="fill:#6afffd;fill-opacity:1;stroke:none;stroke-dasharray:none;stroke-opacity:1" />
+  <path
+     d="m 892.9134,337.32283 97.95916,0 0,58.77551 c -29.38776,-7.34694 -68.57142,22.04082 -97.95916,7.34694 z"
+     id="path513"
+     inkscape:connector-curvature="0"
+     style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:1;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;stroke-opacity:1" />
+  <text
+     id="text515"
+     style="fill:#000000;fill-opacity:1;stroke:none;stroke-dasharray:none;stroke-opacity:1"
+     x="897.91339"
+     y="364.38406">
+    <tspan
+       font-size="10"
+       font-weight="500"
+       x="919.10492"
+       y="374.38406"
+       textLength="45.576172"
+       id="tspan517"
+       style="font-weight:500;font-size:10px;font-family:Helvetica">Document</tspan>
+  </text>
+  <path
+     d="m 896.77004,341.1795 97.95916,0 0,58.7755 c -29.38773,-7.34694 -68.5714,22.04082 -97.95916,7.34694 z"
+     id="path519"
+     inkscape:connector-curvature="0"
+     style="fill:#6afffd;fill-opacity:1;stroke:none;stroke-dasharray:none;stroke-opacity:1" />
+  <path
+     d="m 896.77004,341.1795 97.95916,0 0,58.7755 c -29.38773,-7.34694 -68.5714,22.04082 -97.95916,7.34694 z"
+     id="path521"
+     inkscape:connector-curvature="0"
+     style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:1;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;stroke-opacity:1" />
+  <text
+     id="text523"
+     style="fill:#000000;fill-opacity:1;stroke:none;stroke-dasharray:none;stroke-opacity:1"
+     x="901.77002"
+     y="368.24072">
+    <tspan
+       font-size="10"
+       font-weight="500"
+       x="922.96155"
+       y="378.24072"
+       textLength="45.576172"
+       id="tspan525"
+       style="font-weight:500;font-size:10px;font-family:Helvetica">Document</tspan>
+  </text>
+  <path
+     d="m 900.6267,345.03615 97.9592,0 0,58.77551 c -29.38777,-7.34693 -68.57144,22.04082 -97.9592,7.34694 z"
+     id="path527"
+     inkscape:connector-curvature="0"
+     style="fill:#6afffd;fill-opacity:1;stroke:none;stroke-dasharray:none;stroke-opacity:1" />
+  <path
+     d="m 900.6267,345.03615 97.9592,0 0,58.77551 c -29.38777,-7.34693 -68.57144,22.04082 -97.9592,7.34694 z"
+     id="path529"
+     inkscape:connector-curvature="0"
+     style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:1;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;stroke-opacity:1" />
+  <text
+     id="text531"
+     style="fill:#000000;fill-opacity:1;stroke:none;stroke-dasharray:none;stroke-opacity:1"
+     x="905.62671"
+     y="372.09738">
+    <tspan
+       font-size="10"
+       font-weight="500"
+       x="926.81818"
+       y="382.09738"
+       textLength="45.576172"
+       id="tspan533"
+       style="font-weight:500;font-size:10px;font-family:Helvetica">Document</tspan>
+  </text>
+  <path
+     d="m 904.48336,348.89281 97.95914,0 0,58.77551 c -29.3877,-7.34693 -68.5714,22.04082 -97.95914,7.34694 z"
+     id="path535"
+     inkscape:connector-curvature="0"
+     style="fill:#6afffd;fill-opacity:1;stroke:none;stroke-dasharray:none;stroke-opacity:1" />
+  <path
+     d="m 904.48336,348.89281 97.95914,0 0,58.77551 c -29.3877,-7.34693 -68.5714,22.04082 -97.95914,7.34694 z"
+     id="path537"
+     inkscape:connector-curvature="0"
+     style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:1;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;stroke-opacity:1" />
+  <text
+     id="text539"
+     style="fill:#000000;fill-opacity:1;stroke:none;stroke-dasharray:none;stroke-opacity:1"
+     x="909.48334"
+     y="369.95404">
+    <tspan
+       font-size="10"
+       font-weight="500"
+       x="939.29303"
+       y="379.95404"
+       textLength="28.339844"
+       id="tspan541"
+       style="font-weight:500;font-size:10px;font-family:Helvetica">FINAL</tspan>
+    <tspan
+       font-size="10"
+       font-weight="500"
+       x="910.03522"
+       y="391.95404"
+       textLength="57.773438"
+       id="tspan543"
+       style="font-weight:500;font-size:10px;font-family:Helvetica">DOCUMENT</tspan>
+    <tspan
+       font-size="10"
+       font-weight="500"
+       x="967.07135"
+       y="391.95404"
+       textLength="6.669922"
+       id="tspan545"
+       style="font-weight:500;font-size:10px;font-family:Helvetica">A</tspan>
+    <tspan
+       font-size="10"
+       font-weight="500"
+       x="973.00397"
+       y="391.95404"
+       textLength="23.886719"
+       id="tspan547"
+       style="font-weight:500;font-size:10px;font-family:Helvetica">TION</tspan>
+  </text>
+  <rect
+     x="1060.6111"
+     y="529.4173"
+     width="27"
+     height="24"
+     id="rect549"
+     style="fill:#ffffff;fill-opacity:1;stroke:none;stroke-dasharray:none;stroke-opacity:1" />
+  <text
+     id="text551"
+     style="fill:#000000;fill-opacity:1;stroke:none;stroke-dasharray:none;stroke-opacity:1"
+     x="1065.6111"
+     y="534.75775">
+    <tspan
+       font-size="11"
+       font-weight="bold"
+       x="1065.7566"
+       y="545.75775"
+       textLength="16.709"
+       id="tspan553"
+       style="font-weight:bold;font-size:11px;font-family:'Helvetica Neue'">NO</tspan>
+  </text>
+  <rect
+     x="1156.5354"
+     y="408.18896"
+     width="99.212601"
+     height="42.519684"
+     id="rect555"
+     style="fill:#ffffff;fill-opacity:1;stroke:none;stroke-dasharray:none;stroke-opacity:1" />
+  <path
+     d="m 1156.5354,408.18897 99.2126,0 0,42.51969 -99.2126,0 z m 9.9213,0 0,42.51969 m 79.3701,0 0,-42.51969"
+     id="path557"
+     inkscape:connector-curvature="0"
+     style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:1;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;stroke-opacity:1" />
+  <text
+     id="text559"
+     style="fill:#000000;fill-opacity:1;stroke:none;stroke-dasharray:none;stroke-opacity:1"
+     x="1171.4567"
+     y="411.44882">
+    <tspan
+       font-size="10"
+       font-weight="500"
+       x="1186.4054"
+       y="421.44882"
+       textLength="42.250977"
+       id="tspan561"
+       style="font-weight:500;font-size:10px;font-family:Helvetica">Students</tspan>
+    <tspan
+       font-size="10"
+       font-weight="500"
+       x="1190.0187"
+       y="433.44882"
+       textLength="35.024414"
+       id="tspan563"
+       style="font-weight:500;font-size:10px;font-family:Helvetica">Update</tspan>
+    <tspan
+       font-size="10"
+       font-weight="500"
+       x="1172.5114"
+       y="445.44882"
+       textLength="67.260742"
+       id="tspan565"
+       style="font-weight:500;font-size:10px;font-family:Helvetica">Documentation</tspan>
+  </text>
+  <path
+     d="m 1206.1417,518.74015 0,-11.9 0,-22.11575 0,-22.11574 0,-2"
+     id="path567"
+     inkscape:connector-curvature="0"
+     style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:1;stroke-linecap:round;stroke-linejoin:miter;stroke-dasharray:8, 5;stroke-opacity:1;marker-end:url(#FilledArrow_Marker)" />
+  <path
+     d="m 1156.5354,429.44882 -11.9,0 -65.1464,0 0,-21.91066 0,-21.91066 -65.1465,0 -2,0"
+     id="path569"
+     inkscape:connector-curvature="0"
+     style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:1;stroke-linecap:round;stroke-linejoin:miter;stroke-dasharray:8, 5;stroke-opacity:1;marker-end:url(#FilledArrow_Marker)" />
+  <path
+     d="m 947.9134,578.2677 0,11.9 0,15.45434 54.5872,0 54.5873,0 0,15.45433 0,2"
+     id="path571"
+     inkscape:connector-curvature="0"
+     style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:1;stroke-linecap:round;stroke-linejoin:miter;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#FilledArrow_Marker)" />
+  <rect
+     x="974.11749"
+     y="593.62207"
+     width="32"
+     height="24"
+     id="rect573"
+     style="fill:#ffffff;fill-opacity:1;stroke:none;stroke-dasharray:none;stroke-opacity:1" />
+  <text
+     id="text575"
+     style="fill:#000000;fill-opacity:1;stroke:none;stroke-dasharray:none;stroke-opacity:1"
+     x="979.11749"
+     y="598.96252">
+    <tspan
+       font-size="11"
+       font-weight="bold"
+       x="979.31549"
+       y="609.96252"
+       textLength="21.604"
+       id="tspan577"
+       style="font-weight:bold;font-size:11px;font-family:'Helvetica Neue'">YES</tspan>
+  </text>
+  <path
+     d="m 1015.3565,632.97637 104.3285,0 -26.0821,55.84253 -104.32854,0 z"
+     id="path579"
+     inkscape:connector-curvature="0"
+     style="fill:#000000;fill-opacity:1;stroke:none;stroke-dasharray:none;stroke-opacity:1" />
+  <path
+     d="m 1015.3565,632.97637 104.3285,0 -26.0821,55.84253 -104.32854,0 z"
+     id="path581"
+     inkscape:connector-curvature="0"
+     style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:1;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;stroke-opacity:1" />
+  <text
+     id="text583"
+     style="fill:#ffffff;fill-opacity:1;stroke:none;stroke-dasharray:none;stroke-opacity:1"
+     x="1020.3565"
+     y="648.89764">
+    <tspan
+       font-size="10"
+       font-weight="bold"
+       x="1021.6867"
+       y="658.89764"
+       textLength="68.364258"
+       id="tspan585"
+       style="font-weight:bold;font-size:10px;font-family:Helvetica;fill:#ffffff">Are you 100%</tspan>
+    <tspan
+       font-size="10"
+       font-weight="bold"
+       x="1040.3098"
+       y="670.89764"
+       textLength="28.339844"
+       id="tspan587"
+       style="font-weight:bold;font-size:10px;font-family:Helvetica;fill:#ffffff">Sure?</tspan>
+  </text>
+  <path
+     d="m 911.0415,714.3307 66.3171,29.7638 -66.3171,29.76376 -66.3171,-29.76376 z"
+     id="path589"
+     inkscape:connector-curvature="0"
+     style="fill:#ffffff;fill-opacity:1;stroke:none;stroke-dasharray:none;stroke-opacity:1" />
+  <path
+     d="m 911.0415,714.3307 66.3171,29.7638 -66.3171,29.76376 -66.3171,-29.76376 z"
+     id="path591"
+     inkscape:connector-curvature="0"
+     style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:1;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;stroke-opacity:1" />
+  <text
+     id="text593"
+     style="fill:#000000;fill-opacity:1;stroke:none;stroke-dasharray:none;stroke-opacity:1"
+     x="867.63"
+     y="737.49921">
+    <tspan
+       font-size="10"
+       font-weight="500"
+       x="880.96399"
+       y="747.49921"
+       textLength="62.807617"
+       id="tspan595"
+       style="font-weight:500;font-size:10px;font-family:Helvetica">Files present?</tspan>
+  </text>
+  <path
+     d="m 1197.0174,715.74803 63.1592,28.34647 -63.1592,28.34644 -63.1591,-28.34644 z"
+     id="path597"
+     inkscape:connector-curvature="0"
+     style="fill:#ffffff;fill-opacity:1;stroke:none;stroke-dasharray:none;stroke-opacity:1" />
+  <path
+     d="m 1197.0174,715.74803 63.1592,28.34647 -63.1592,28.34644 -63.1591,-28.34644 z"
+     id="path599"
+     inkscape:connector-curvature="0"
+     style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:1;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;stroke-opacity:1" />
+  <text
+     id="text601"
+     style="fill:#000000;fill-opacity:1;stroke:none;stroke-dasharray:none;stroke-opacity:1"
+     x="1155.9113"
+     y="731.52753">
+    <tspan
+       font-size="10"
+       font-weight="500"
+       x="1186.613"
+       y="741.52753"
+       textLength="26.113281"
+       id="tspan603"
+       style="font-weight:500;font-size:10px;font-family:Helvetica">Skills</tspan>
+    <tspan
+       font-size="10"
+       font-weight="500"
+       x="1164.926"
+       y="753.52753"
+       textLength="69.487305"
+       id="tspan605"
+       style="font-weight:500;font-size:10px;font-family:Helvetica">demonstrated?</tspan>
+  </text>
+  <path
+     d="m 1051.6535,712.34645 62.3622,31.1811 -62.3622,31.18111 -62.36217,-31.18111 z"
+     id="path607"
+     inkscape:connector-curvature="0"
+     style="fill:#ffffff;fill-opacity:1;stroke:none;stroke-dasharray:none;stroke-opacity:1" />
+  <path
+     d="m 1051.6535,712.34645 62.3622,31.1811 -62.3622,31.18111 -62.36217,-31.18111 z"
+     id="path609"
+     inkscape:connector-curvature="0"
+     style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:1;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;stroke-opacity:1" />
+  <text
+     id="text611"
+     style="fill:#000000;fill-opacity:1;stroke:none;stroke-dasharray:none;stroke-opacity:1"
+     x="1011.1291"
+     y="730.90393">
+    <tspan
+       font-size="10"
+       font-weight="500"
+       x="1016.4969"
+       y="740.90393"
+       textLength="75.585938"
+       id="tspan613"
+       style="font-weight:500;font-size:10px;font-family:Helvetica">Assignment fully</tspan>
+    <tspan
+       font-size="10"
+       font-weight="500"
+       x="1029.8319"
+       y="752.90393"
+       textLength="46.137695"
+       id="tspan615"
+       style="font-weight:500;font-size:10px;font-family:Helvetica">complete?</tspan>
+  </text>
+  <path
+     d="m 911.0415,773.85826 0,11.9 0,19.28111 35.73015,0 45.35435,0 0,20.13149 0,2"
+     id="path617"
+     inkscape:connector-curvature="0"
+     style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:1;stroke-linecap:round;stroke-linejoin:miter;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#FilledArrow_Marker)" />
+  <rect
+     x="899.10889"
+     y="793.03937"
+     width="32"
+     height="24"
+     id="rect619"
+     style="fill:#ffffff;fill-opacity:1;stroke:none;stroke-dasharray:none;stroke-opacity:1" />
+  <text
+     id="text621"
+     style="fill:#000000;fill-opacity:1;stroke:none;stroke-dasharray:none;stroke-opacity:1"
+     x="904.10889"
+     y="798.37982">
+    <tspan
+       font-size="11"
+       font-weight="bold"
+       x="904.30688"
+       y="809.37982"
+       textLength="21.604"
+       id="tspan623"
+       style="font-weight:bold;font-size:11px;font-family:'Helvetica Neue'">YES</tspan>
+  </text>
+  <path
+     d="m 1197.0174,772.44094 0,11.9 0,23.53306 -23.4741,0 -62.3622,0 0,17.29686 0,2"
+     id="path625"
+     inkscape:connector-curvature="0"
+     style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:1;stroke-linecap:round;stroke-linejoin:miter;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#FilledArrow_Marker)" />
+  <path
+     d="m 1051.6535,774.70866 0,11.9 0,21.26534 0,17.29686 0,2"
+     id="path627"
+     inkscape:connector-curvature="0"
+     style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:1;stroke-linecap:round;stroke-linejoin:miter;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#FilledArrow_Marker)" />
+  <rect
+     x="1180.3175"
+     y="795.87402"
+     width="32"
+     height="24"
+     id="rect629"
+     style="fill:#ffffff;fill-opacity:1;stroke:none;stroke-dasharray:none;stroke-opacity:1" />
+  <text
+     id="text631"
+     style="fill:#000000;fill-opacity:1;stroke:none;stroke-dasharray:none;stroke-opacity:1"
+     x="1185.3175"
+     y="801.21448">
+    <tspan
+       font-size="11"
+       font-weight="bold"
+       x="1185.5155"
+       y="812.21448"
+       textLength="21.604"
+       id="tspan633"
+       style="font-weight:bold;font-size:11px;font-family:'Helvetica Neue'">YES</tspan>
+  </text>
+  <rect
+     x="1035.6536"
+     y="794.29852"
+     width="32"
+     height="24"
+     id="rect635"
+     style="fill:#ffffff;fill-opacity:1;stroke:none;stroke-dasharray:none;stroke-opacity:1" />
+  <text
+     id="text637"
+     style="fill:#000000;fill-opacity:1;stroke:none;stroke-dasharray:none;stroke-opacity:1"
+     x="1040.6534"
+     y="799.63892">
+    <tspan
+       font-size="11"
+       font-weight="bold"
+       x="1040.8514"
+       y="810.63892"
+       textLength="21.604"
+       id="tspan639"
+       style="font-weight:bold;font-size:11px;font-family:'Helvetica Neue'">YES</tspan>
+  </text>
+  <path
+     d="m 1010.1401,688.8189 0,11.9 0,0.8559 -49.5493,0 -49.5493,0 0,0.8559 0,2"
+     id="path641"
+     inkscape:connector-curvature="0"
+     style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:1;stroke-linecap:round;stroke-linejoin:miter;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#FilledArrow_Marker)" />
+  <path
+     d="m 1051.8715,688.8189 0,11.9 -0.109,-0.13623 -0.109,-0.13622 0,2"
+     id="path643"
+     inkscape:connector-curvature="0"
+     style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:1;stroke-linecap:round;stroke-linejoin:miter;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#FilledArrow_Marker)" />
+  <path
+     d="m 1072.7372,688.8189 0,11.9 0,1.56456 62.1401,0 62.1401,0 0,1.56457 0,2"
+     id="path645"
+     inkscape:connector-curvature="0"
+     style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:1;stroke-linecap:round;stroke-linejoin:miter;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#FilledArrow_Marker)" />
+  <path
+     d="m 1104.0358,666.4819 11.9,0 90.2059,0 0,-38.04096 0,11.9 0,-2"
+     id="path647"
+     inkscape:connector-curvature="0"
+     style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:1;stroke-linecap:round;stroke-linejoin:miter;stroke-dasharray:8, 5;stroke-opacity:1;marker-end:url(#FilledArrow_Marker)" />
+  <rect
+     x="1167.4462"
+     y="654.48187"
+     width="27"
+     height="24"
+     id="rect649"
+     style="fill:#ffffff;fill-opacity:1;stroke:none;stroke-dasharray:none;stroke-opacity:1" />
+  <text
+     id="text651"
+     style="fill:#000000;fill-opacity:1;stroke:none;stroke-dasharray:none;stroke-opacity:1"
+     x="1172.4462"
+     y="659.82233">
+    <tspan
+       font-size="11"
+       font-weight="bold"
+       x="1172.5917"
+       y="670.82233"
+       textLength="16.709"
+       id="tspan653"
+       style="font-weight:bold;font-size:11px;font-family:'Helvetica Neue'">NO</tspan>
+  </text>
+  <rect
+     x="1156.5354"
+     y="586.77167"
+     width="99.212601"
+     height="41.669292"
+     id="rect655"
+     style="fill:#ffffff;fill-opacity:1;stroke:none;stroke-dasharray:none;stroke-opacity:1" />
+  <path
+     d="m 1156.5354,586.77165 99.2126,0 0,41.66929 -99.2126,0 z m 9.9213,0 0,41.66929 m 79.3701,0 0,-41.66929"
+     id="path657"
+     inkscape:connector-curvature="0"
+     style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:1;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;stroke-opacity:1" />
+  <text
+     id="text659"
+     style="fill:#000000;fill-opacity:1;stroke:none;stroke-dasharray:none;stroke-opacity:1"
+     x="1171.4567"
+     y="595.60632">
+    <tspan
+       font-size="10"
+       font-weight="500"
+       x="1177.2404"
+       y="605.60632"
+       textLength="60.581055"
+       id="tspan661"
+       style="font-weight:500;font-size:10px;font-family:Helvetica">Refer to Eval</tspan>
+    <tspan
+       font-size="10"
+       font-weight="500"
+       x="1190.0284"
+       y="617.60632"
+       textLength="32.226562"
+       id="tspan663"
+       style="font-weight:500;font-size:10px;font-family:Helvetica">Criteria</tspan>
+  </text>
+  <path
+     d="m 1206.1417,586.77165 0,-11.9 0,-0.85591 0,-0.8559 0,-2"
+     id="path665"
+     inkscape:connector-curvature="0"
+     style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:1;stroke-linecap:round;stroke-linejoin:miter;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#FilledArrow_Marker)" />
+  <path
+     d="m 1000.1063,904.43307 100.811,0 c 11.9245,0 21.6024,6.944 21.6024,15.5 0,8.556 -9.6779,15.5 -21.6024,15.5 l -100.811,0 c -11.9245,0 -21.60237,-6.944 -21.60237,-15.5 0,-8.556 9.67787,-15.5 21.60237,-15.5"
+     id="path667"
+     inkscape:connector-curvature="0"
+     style="fill:#cccccc;fill-opacity:1;stroke:none;stroke-dasharray:none;stroke-opacity:1" />
+  <path
+     d="m 1000.1063,904.43307 100.811,0 c 11.9245,0 21.6024,6.944 21.6024,15.5 0,8.556 -9.6779,15.5 -21.6024,15.5 l -100.811,0 c -11.9245,0 -21.60237,-6.944 -21.60237,-15.5 0,-8.556 9.67787,-15.5 21.60237,-15.5"
+     id="path669"
+     inkscape:connector-curvature="0"
+     style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:1;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;stroke-opacity:1" />
+  <text
+     id="text671"
+     style="fill:#000000;fill-opacity:1;stroke:none;stroke-dasharray:none;stroke-opacity:1"
+     x="997.90552"
+     y="913.93304">
+    <tspan
+       font-size="10"
+       font-weight="500"
+       x="1001.0342"
+       y="923.93304"
+       textLength="98.95508"
+       id="tspan673"
+       style="font-weight:500;font-size:10px;font-family:Helvetica">Local Evaluation Ends</tspan>
+  </text>
+  <text
+     id="text675"
+     style="fill:#000000;fill-opacity:1;stroke:none;stroke-dasharray:none;stroke-opacity:1"
+     x="1213.3583"
+     y="971.27087">
+    <tspan
+       font-size="15"
+       font-style="italic"
+       font-weight="bold"
+       x="1213.3583"
+       y="986.27087"
+       textLength="56.4"
+       id="tspan677"
+       style="font-style:italic;font-weight:bold;font-size:15px;font-family:'Helvetica Neue'">July 8th</tspan>
+    <tspan
+       font-size="15"
+       font-weight="bold"
+       x="1213.3583"
+       y="1004.706"
+       textLength="251.61"
+       id="tspan679"
+       style="font-weight:bold;font-size:15px;font-family:'Helvetica Neue'">Graduation Recommendations Due</tspan>
+    <tspan
+       font-size="15"
+       font-style="italic"
+       font-weight="500"
+       x="1464.9683"
+       y="1004.706"
+       textLength="8.34"
+       id="tspan681"
+       style="font-style:italic;font-weight:500;font-size:15px;font-family:'Helvetica Neue'">.</tspan>
+    <tspan
+       font-size="15"
+       font-style="italic"
+       font-weight="500"
+       x="1213.3583"
+       y="1022.1411"
+       textLength="251.145"
+       id="tspan683"
+       style="font-style:italic;font-weight:500;font-size:15px;font-family:'Helvetica Neue'">local instructors must submit student</tspan>
+    <tspan
+       font-size="15"
+       font-style="italic"
+       font-weight="500"
+       x="1213.3583"
+       y="1039.5612"
+       textLength="175.575"
+       id="tspan685"
+       style="font-style:italic;font-weight:500;font-size:15px;font-family:'Helvetica Neue'">names to Eval Committee</tspan>
+  </text>
+  <path
+     d="m 1120.7087,978.9449 7,0 80.6496,0"
+     id="path687"
+     inkscape:connector-curvature="0"
+     style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:1;stroke-linecap:round;stroke-linejoin:miter;stroke-dasharray:none;stroke-opacity:1" />
+  <path
+     d="m 999.8622,955.2756 138.1102,0 -34.5275,47.3386 -138.11026,0 z"
+     id="path689"
+     inkscape:connector-curvature="0"
+     style="fill:#e21d28;fill-opacity:1;stroke:none;stroke-dasharray:none;stroke-opacity:1" />
+  <path
+     d="m 999.8622,955.2756 138.1102,0 -34.5275,47.3386 -138.11026,0 z"
+     id="path691"
+     inkscape:connector-curvature="0"
+     style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:1;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;stroke-opacity:1" />
+  <text
+     id="text693"
+     style="fill:#ffffff;fill-opacity:1;stroke:none;stroke-dasharray:none;stroke-opacity:1"
+     x="1004.8622"
+     y="960.94489">
+    <tspan
+       font-size="10"
+       font-weight="bold"
+       x="1024.9861"
+       y="970.94489"
+       textLength="56.11328"
+       id="tspan695"
+       style="font-weight:bold;font-size:10px;font-family:Helvetica;fill:#ffffff">Graduation</tspan>
+    <tspan
+       font-size="10"
+       font-weight="bold"
+       x="1006.9221"
+       y="982.94489"
+       textLength="92.24121"
+       id="tspan697"
+       style="font-weight:bold;font-size:10px;font-family:Helvetica;fill:#ffffff">Recommendations</tspan>
+    <tspan
+       font-size="10"
+       font-weight="bold"
+       x="1042.2078"
+       y="994.94489"
+       textLength="18.891602"
+       id="tspan699"
+       style="font-weight:bold;font-size:10px;font-family:Helvetica;fill:#ffffff">Due</tspan>
+  </text>
+  <path
+     d="m 1051.6535,873.07086 0,11.9 0,3.7811 -0.5708,0 -0.5709,0 0,3.78111 0,2"
+     id="path701"
+     inkscape:connector-curvature="0"
+     style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:1;stroke-linecap:round;stroke-linejoin:miter;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#FilledArrow_Marker)" />
+  <path
+     d="m 1050.5118,935.43307 0,11.9 0.5709,0 0,-1.97877 0,-1.9787 0.5708,0 0,2"
+     id="path703"
+     inkscape:connector-curvature="0"
+     style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:1;stroke-linecap:round;stroke-linejoin:miter;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#FilledArrow_Marker)" />
+  <circle
+     cx="1051.6536"
+     cy="1036"
+     r="13.000021"
+     id="circle705"
+     style="fill:#000000;fill-opacity:1;stroke:none;stroke-dasharray:none;stroke-opacity:1" />
+  <circle
+     cx="1051.6536"
+     cy="1036"
+     r="13.000021"
+     id="circle707"
+     style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:1;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;stroke-opacity:1" />
+  <text
+     id="text709"
+     style="fill:#ffffff;fill-opacity:1;stroke:none;stroke-dasharray:none;stroke-opacity:1"
+     x="1046.2535"
+     y="1030">
+    <tspan
+       font-size="10"
+       font-weight="bold"
+       x="1048.0426"
+       y="1040"
+       textLength="7.2216797"
+       id="tspan711"
+       style="font-weight:bold;font-size:10px;font-family:Helvetica;fill:#ffffff">B</tspan>
+  </text>
+  <path
+     d="m 1051.6535,1002.6142 0,11.9 0,-1.7071 0,-1.7071 0,2"
+     id="path713"
+     inkscape:connector-curvature="0"
+     style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:1;stroke-linecap:round;stroke-linejoin:miter;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#FilledArrow_Marker)" />
+  <text
+     id="text715"
+     style="fill:#000000;fill-opacity:1;stroke:none;stroke-dasharray:none;stroke-opacity:1"
+     x="1767.2795"
+     y="641.69055">
+    <tspan
+       font-size="15"
+       font-style="italic"
+       font-weight="bold"
+       x="1767.2795"
+       y="656.69055"
+       textLength="64.74"
+       id="tspan717"
+       style="font-style:italic;font-weight:bold;font-size:15px;font-family:'Helvetica Neue'">July 24th</tspan>
+    <tspan
+       font-size="15"
+       font-style="italic"
+       font-weight="500"
+       x="1767.2795"
+       y="674.12567"
+       textLength="234.705"
+       id="tspan719"
+       style="font-style:italic;font-weight:500;font-size:15px;font-family:'Helvetica Neue'">Eval Committee Reviews Complete</tspan>
+  </text>
+  <line
+     x1="1655.4331"
+     y1="660.47241"
+     x2="1762.2795"
+     y2="660.0744"
+     id="line721"
+     style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:1;stroke-linecap:round;stroke-linejoin:miter;stroke-dasharray:none;stroke-opacity:1" />
+  <circle
+     cx="1587.126"
+     cy="140.55905"
+     r="13.000021"
+     id="circle723"
+     style="fill:#000000;fill-opacity:1;stroke:none;stroke-dasharray:none;stroke-opacity:1" />
+  <circle
+     cx="1587.126"
+     cy="140.55905"
+     r="13.000021"
+     id="circle725"
+     style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:1;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;stroke-opacity:1" />
+  <text
+     id="text727"
+     style="fill:#ffffff;fill-opacity:1;stroke:none;stroke-dasharray:none;stroke-opacity:1"
+     x="1581.726"
+     y="134.55905">
+    <tspan
+       font-size="10"
+       font-weight="bold"
+       x="1583.5151"
+       y="144.55905"
+       textLength="7.2216797"
+       id="tspan729"
+       style="font-weight:bold;font-size:10px;font-family:Helvetica;fill:#ffffff">B</tspan>
+  </text>
+  <path
+     d="m 1587.126,153.55906 0,11.9 0,3.7811 0,3.7811 0,2"
+     id="path731"
+     inkscape:connector-curvature="0"
+     style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:1;stroke-linecap:round;stroke-linejoin:miter;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#FilledArrow_Marker)" />
+  <path
+     d="m 1537.7126,184.92126 98.8268,0 c 11.6898,0 21.1771,6.944 21.1771,15.5 0,8.556 -9.4873,15.5 -21.1771,15.5 l -98.8268,0 c -11.6898,0 -21.1772,-6.944 -21.1772,-15.5 0,-8.556 9.4874,-15.5 21.1772,-15.5"
+     id="path733"
+     inkscape:connector-curvature="0"
+     style="fill:#cccccc;fill-opacity:1;stroke:none;stroke-dasharray:none;stroke-opacity:1" />
+  <path
+     d="m 1537.7126,184.92126 98.8268,0 c 11.6898,0 21.1771,6.944 21.1771,15.5 0,8.556 -9.4873,15.5 -21.1771,15.5 l -98.8268,0 c -11.6898,0 -21.1772,-6.944 -21.1772,-15.5 0,-8.556 9.4874,-15.5 21.1772,-15.5"
+     id="path735"
+     inkscape:connector-curvature="0"
+     style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:1;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;stroke-opacity:1" />
+  <text
+     id="text737"
+     style="fill:#000000;fill-opacity:1;stroke:none;stroke-dasharray:none;stroke-opacity:1"
+     x="1535.6534"
+     y="188.42126">
+    <tspan
+       font-size="10"
+       font-weight="500"
+       x="1538.2148"
+       y="198.42126"
+       textLength="100.600586"
+       id="tspan739"
+       style="font-weight:500;font-size:10px;font-family:Helvetica">Evaluation Committee</tspan>
+    <tspan
+       font-size="10"
+       font-weight="500"
+       x="1554.0547"
+       y="210.42126"
+       textLength="66.14258"
+       id="tspan741"
+       style="font-weight:500;font-size:10px;font-family:Helvetica">Review Begins</tspan>
+  </text>
+  <text
+     id="text743"
+     style="fill:#000000;fill-opacity:1;stroke:none;stroke-dasharray:none;stroke-opacity:1"
+     x="1767.2795"
+     y="182.81261">
+    <tspan
+       font-size="15"
+       font-style="italic"
+       font-weight="bold"
+       x="1767.2795"
+       y="197.81261"
+       textLength="56.4"
+       id="tspan745"
+       style="font-style:italic;font-weight:bold;font-size:15px;font-family:'Helvetica Neue'">July 9th</tspan>
+    <tspan
+       font-size="15"
+       font-style="italic"
+       font-weight="500"
+       x="1767.2795"
+       y="215.24771"
+       textLength="166.125"
+       id="tspan747"
+       style="font-style:italic;font-weight:500;font-size:15px;font-family:'Helvetica Neue'">Eval Committee begins fi</tspan>
+    <tspan
+       font-size="15"
+       font-style="italic"
+       font-weight="500"
+       x="1933.4045"
+       y="215.24771"
+       textLength="28.62"
+       id="tspan749"
+       style="font-style:italic;font-weight:500;font-size:15px;font-family:'Helvetica Neue'">nal r</tspan>
+    <tspan
+       font-size="15"
+       font-style="italic"
+       font-weight="500"
+       x="1961.7545"
+       y="215.24771"
+       textLength="45.255"
+       id="tspan751"
+       style="font-style:italic;font-weight:500;font-size:15px;font-family:'Helvetica Neue'">eviews</tspan>
+  </text>
+  <path
+     d="m 1657.7165,200.42126 7,0 97.563,0.14433"
+     id="path753"
+     inkscape:connector-curvature="0"
+     style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:1;stroke-linecap:round;stroke-linejoin:miter;stroke-dasharray:none;stroke-opacity:1" />
+  <path
+     d="m 1587.126,215.92126 0,11.9 0.2756,15.95827 0,47 0.8849,0 0,46.18661 0,2"
+     id="path755"
+     inkscape:connector-curvature="0"
+     style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:1;stroke-linecap:round;stroke-linejoin:miter;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#FilledArrow_Marker)" />
+  <rect
+     x="1530.7865"
+     y="348.86615"
+     width="115"
+     height="46"
+     id="rect757"
+     style="fill:#ffffff;fill-opacity:1;stroke:none;stroke-dasharray:none;stroke-opacity:1" />
+  <rect
+     x="1530.7865"
+     y="348.86615"
+     width="115"
+     height="46"
+     id="rect759"
+     style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:1;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;stroke-opacity:1" />
+  <text
+     id="text761"
+     style="fill:#000000;fill-opacity:1;stroke:none;stroke-dasharray:none;stroke-opacity:1"
+     x="1535.7865"
+     y="359.86615">
+    <tspan
+       font-size="10"
+       font-weight="500"
+       x="1568.8285"
+       y="369.86615"
+       textLength="38.916016"
+       id="tspan763"
+       style="font-weight:500;font-size:10px;font-family:Helvetica">Evaluate</tspan>
+    <tspan
+       font-size="10"
+       font-weight="500"
+       x="1554.1068"
+       y="381.86615"
+       textLength="68.359375"
+       id="tspan765"
+       style="font-weight:500;font-size:10px;font-family:Helvetica">Against Criteria</tspan>
+  </text>
+  <path
+     d="m 1588.2865,423.2126 66.0818,36.8504 -66.0818,36.85038 -66.0818,-36.85038 z"
+     id="path767"
+     inkscape:connector-curvature="0"
+     style="fill:#218041;fill-opacity:1;stroke:none;stroke-dasharray:none;stroke-opacity:1" />
+  <path
+     d="m 1588.2865,423.2126 66.0818,36.8504 -66.0818,36.85038 -66.0818,-36.85038 z"
+     id="path769"
+     inkscape:connector-curvature="0"
+     style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:1;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;stroke-opacity:1" />
+  <text
+     id="text771"
+     style="fill:#ffffff;fill-opacity:1;stroke:none;stroke-dasharray:none;stroke-opacity:1"
+     x="1545.0468"
+     y="447.32599">
+    <tspan
+       font-size="10"
+       font-weight="bold"
+       x="1570.9998"
+       y="457.32599"
+       textLength="37.216797"
+       id="tspan773"
+       style="font-weight:bold;font-size:10px;font-family:Helvetica;fill:#ffffff">Student</tspan>
+    <tspan
+       font-size="10"
+       font-weight="bold"
+       x="1563.7732"
+       y="469.32599"
+       textLength="51.669922"
+       id="tspan775"
+       style="font-weight:bold;font-size:10px;font-family:Helvetica;fill:#ffffff">Complete?</tspan>
+  </text>
+  <rect
+     x="1796.9084"
+     y="437.38583"
+     width="99.212601"
+     height="42.519684"
+     id="rect777"
+     style="fill:#ffffff;fill-opacity:1;stroke:none;stroke-dasharray:none;stroke-opacity:1" />
+  <path
+     d="m 1796.9085,437.38582 99.2126,0 0,42.51968 -99.2126,0 z m 9.9213,0 0,42.51968 m 79.3701,0 0,-42.51968"
+     id="path779"
+     inkscape:connector-curvature="0"
+     style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:1;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;stroke-opacity:1" />
+  <text
+     id="text781"
+     style="fill:#000000;fill-opacity:1;stroke:none;stroke-dasharray:none;stroke-opacity:1"
+     x="1811.8298"
+     y="446.64566">
+    <tspan
+       font-size="10"
+       font-weight="500"
+       x="1812.3328"
+       y="456.64566"
+       textLength="71.14258"
+       id="tspan783"
+       style="font-weight:500;font-size:10px;font-family:Helvetica">Local Instructor</tspan>
+    <tspan
+       font-size="10"
+       font-weight="500"
+       x="1881.1998"
+       y="456.64566"
+       textLength="2.7783203"
+       id="tspan785"
+       style="font-weight:500;font-size:10px;font-family:Helvetica" />
+    <tspan
+       font-size="10"
+       font-weight="500"
+       x="1829.5618"
+       y="468.64566"
+       textLength="22.783203"
+       id="tspan787"
+       style="font-weight:500;font-size:10px;font-family:Helvetica">Notifi</tspan>
+    <tspan
+       font-size="10"
+       font-weight="500"
+       x="1852.345"
+       y="468.64566"
+       textLength="11.123047"
+       id="tspan789"
+       style="font-weight:500;font-size:10px;font-family:Helvetica">ed</tspan>
+  </text>
+  <path
+     d="m 1654.3683,460.063 11.9,0 59.3701,0 0,-0.70867 0,-0.70866 59.3701,0 2,0"
+     id="path791"
+     inkscape:connector-curvature="0"
+     style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:1;stroke-linecap:round;stroke-linejoin:miter;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#FilledArrow_Marker)" />
+  <path
+     d="m 1588.2865,394.86614 0,11.9 0,2.27323 0,2.27323 0,2"
+     id="path793"
+     inkscape:connector-curvature="0"
+     style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:1;stroke-linecap:round;stroke-linejoin:miter;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#FilledArrow_Marker)" />
+  <path
+     d="m 1533.2865,238.96063 97.9592,0 0,58.77551 c -29.3878,-7.34694 -68.5714,22.04081 -97.9592,7.34694 z"
+     id="path795"
+     inkscape:connector-curvature="0"
+     style="fill:#6afffd;fill-opacity:1;stroke:none;stroke-dasharray:none;stroke-opacity:1" />
+  <path
+     d="m 1533.2865,238.96063 97.9592,0 0,58.77551 c -29.3878,-7.34694 -68.5714,22.04081 -97.9592,7.34694 z"
+     id="path797"
+     inkscape:connector-curvature="0"
+     style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:1;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;stroke-opacity:1" />
+  <text
+     id="text799"
+     style="fill:#000000;fill-opacity:1;stroke:none;stroke-dasharray:none;stroke-opacity:1"
+     x="1538.2865"
+     y="266.02185">
+    <tspan
+       font-size="10"
+       font-weight="500"
+       x="1559.478"
+       y="276.02185"
+       textLength="45.576172"
+       id="tspan801"
+       style="font-weight:500;font-size:10px;font-family:Helvetica">Document</tspan>
+  </text>
+  <path
+     d="m 1537.1432,242.81729 97.9591,0 0,58.77551 c -29.3877,-7.34694 -68.5714,22.04082 -97.9591,7.34694 z"
+     id="path803"
+     inkscape:connector-curvature="0"
+     style="fill:#6afffd;fill-opacity:1;stroke:none;stroke-dasharray:none;stroke-opacity:1" />
+  <path
+     d="m 1537.1432,242.81729 97.9591,0 0,58.77551 c -29.3877,-7.34694 -68.5714,22.04082 -97.9591,7.34694 z"
+     id="path805"
+     inkscape:connector-curvature="0"
+     style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:1;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;stroke-opacity:1" />
+  <text
+     id="text807"
+     style="fill:#000000;fill-opacity:1;stroke:none;stroke-dasharray:none;stroke-opacity:1"
+     x="1542.1432"
+     y="269.87851">
+    <tspan
+       font-size="10"
+       font-weight="500"
+       x="1563.3347"
+       y="279.87851"
+       textLength="45.576172"
+       id="tspan809"
+       style="font-weight:500;font-size:10px;font-family:Helvetica">Document</tspan>
+  </text>
+  <path
+     d="m 1540.9998,246.67395 97.9592,0 0,58.77551 c -29.3878,-7.34694 -68.5714,22.04082 -97.9592,7.34694 z"
+     id="path811"
+     inkscape:connector-curvature="0"
+     style="fill:#6afffd;fill-opacity:1;stroke:none;stroke-dasharray:none;stroke-opacity:1" />
+  <path
+     d="m 1540.9998,246.67395 97.9592,0 0,58.77551 c -29.3878,-7.34694 -68.5714,22.04082 -97.9592,7.34694 z"
+     id="path813"
+     inkscape:connector-curvature="0"
+     style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:1;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;stroke-opacity:1" />
+  <text
+     id="text815"
+     style="fill:#000000;fill-opacity:1;stroke:none;stroke-dasharray:none;stroke-opacity:1"
+     x="1545.9998"
+     y="273.73517">
+    <tspan
+       font-size="10"
+       font-weight="500"
+       x="1567.1913"
+       y="283.73517"
+       textLength="45.576172"
+       id="tspan817"
+       style="font-weight:500;font-size:10px;font-family:Helvetica">Document</tspan>
+  </text>
+  <path
+     d="m 1544.8565,250.53061 97.9592,0 0,58.77551 c -29.3878,-7.34694 -68.5715,22.04082 -97.9592,7.34694 z"
+     id="path819"
+     inkscape:connector-curvature="0"
+     style="fill:#6afffd;fill-opacity:1;stroke:none;stroke-dasharray:none;stroke-opacity:1" />
+  <path
+     d="m 1544.8565,250.53061 97.9592,0 0,58.77551 c -29.3878,-7.34694 -68.5715,22.04082 -97.9592,7.34694 z"
+     id="path821"
+     inkscape:connector-curvature="0"
+     style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:1;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;stroke-opacity:1" />
+  <text
+     id="text823"
+     style="fill:#000000;fill-opacity:1;stroke:none;stroke-dasharray:none;stroke-opacity:1"
+     x="1549.8564"
+     y="271.59183">
+    <tspan
+       font-size="10"
+       font-weight="500"
+       x="1579.6661"
+       y="281.59183"
+       textLength="28.339844"
+       id="tspan825"
+       style="font-weight:500;font-size:10px;font-family:Helvetica">FINAL</tspan>
+    <tspan
+       font-size="10"
+       font-weight="500"
+       x="1550.4083"
+       y="293.59183"
+       textLength="57.773438"
+       id="tspan827"
+       style="font-weight:500;font-size:10px;font-family:Helvetica">DOCUMENT</tspan>
+    <tspan
+       font-size="10"
+       font-weight="500"
+       x="1607.4445"
+       y="293.59183"
+       textLength="6.669922"
+       id="tspan829"
+       style="font-weight:500;font-size:10px;font-family:Helvetica">A</tspan>
+    <tspan
+       font-size="10"
+       font-weight="500"
+       x="1613.3771"
+       y="293.59183"
+       textLength="23.886719"
+       id="tspan831"
+       style="font-weight:500;font-size:10px;font-family:Helvetica">TION</tspan>
+  </text>
+  <rect
+     x="1700.9843"
+     y="448.06299"
+     width="27"
+     height="24"
+     id="rect833"
+     style="fill:#ffffff;fill-opacity:1;stroke:none;stroke-dasharray:none;stroke-opacity:1" />
+  <text
+     id="text835"
+     style="fill:#000000;fill-opacity:1;stroke:none;stroke-dasharray:none;stroke-opacity:1"
+     x="1705.9843"
+     y="453.40344">
+    <tspan
+       font-size="11"
+       font-weight="bold"
+       x="1706.1298"
+       y="464.40344"
+       textLength="16.709"
+       id="tspan837"
+       style="font-weight:bold;font-size:11px;font-family:'Helvetica Neue'">NO</tspan>
+  </text>
+  <rect
+     x="1796.9084"
+     y="326.83463"
+     width="99.212601"
+     height="42.519684"
+     id="rect839"
+     style="fill:#ffffff;fill-opacity:1;stroke:none;stroke-dasharray:none;stroke-opacity:1" />
+  <path
+     d="m 1796.9085,326.83464 99.2126,0 0,42.51969 -99.2126,0 z m 9.9213,0 0,42.51969 m 79.3701,0 0,-42.51969"
+     id="path841"
+     inkscape:connector-curvature="0"
+     style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:1;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;stroke-opacity:1" />
+  <text
+     id="text843"
+     style="fill:#000000;fill-opacity:1;stroke:none;stroke-dasharray:none;stroke-opacity:1"
+     x="1811.8298"
+     y="330.09448">
+    <tspan
+       font-size="10"
+       font-weight="500"
+       x="1829.2786"
+       y="340.09448"
+       textLength="37.250977"
+       id="tspan845"
+       style="font-weight:500;font-size:10px;font-family:Helvetica">Student</tspan>
+    <tspan
+       font-size="10"
+       font-weight="500"
+       x="1827.8918"
+       y="352.09448"
+       textLength="40.024414"
+       id="tspan847"
+       style="font-weight:500;font-size:10px;font-family:Helvetica">Updates</tspan>
+    <tspan
+       font-size="10"
+       font-weight="500"
+       x="1812.8845"
+       y="364.09448"
+       textLength="67.260742"
+       id="tspan849"
+       style="font-weight:500;font-size:10px;font-family:Helvetica">Documentation</tspan>
+  </text>
+  <path
+     d="m 1846.5148,437.38582 0,-11.9 0,-22.11574 0,-22.11575 0,-2"
+     id="path851"
+     inkscape:connector-curvature="0"
+     style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:1;stroke-linecap:round;stroke-linejoin:miter;stroke-dasharray:8, 5;stroke-opacity:1;marker-end:url(#FilledArrow_Marker)" />
+  <path
+     d="m 1796.9085,348.09449 -11.9,0 -65.1464,0 0,-30.41459 0,-30.4146 -65.1464,0 -2,0"
+     id="path853"
+     inkscape:connector-curvature="0"
+     style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:1;stroke-linecap:round;stroke-linejoin:miter;stroke-dasharray:8, 5;stroke-opacity:1;marker-end:url(#FilledArrow_Marker)" />
+  <path
+     d="m 1588.2865,496.91338 0,11.9 0,16.44646 0.8659,0 0.8659,0 0,16.44646 0,2"
+     id="path855"
+     inkscape:connector-curvature="0"
+     style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:1;stroke-linecap:round;stroke-linejoin:miter;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#FilledArrow_Marker)" />
+  <rect
+     x="1572.2865"
+     y="509.71109"
+     width="32"
+     height="24"
+     id="rect857"
+     style="fill:#ffffff;fill-opacity:1;stroke:none;stroke-dasharray:none;stroke-opacity:1" />
+  <text
+     id="text859"
+     style="fill:#000000;fill-opacity:1;stroke:none;stroke-dasharray:none;stroke-opacity:1"
+     x="1577.2865"
+     y="515.05157">
+    <tspan
+       font-size="11"
+       font-weight="bold"
+       x="1577.4845"
+       y="526.05157"
+       textLength="21.604"
+       id="tspan861"
+       style="font-weight:bold;font-size:11px;font-family:'Helvetica Neue'">YES</tspan>
+  </text>
+  <path
+     d="m 1548.2869,553.6063 104.3285,0 -26.0821,55.8425 -104.3286,0 z"
+     id="path863"
+     inkscape:connector-curvature="0"
+     style="fill:#000000;fill-opacity:1;stroke:none;stroke-dasharray:none;stroke-opacity:1" />
+  <path
+     d="m 1548.2869,553.6063 104.3285,0 -26.0821,55.8425 -104.3286,0 z"
+     id="path865"
+     inkscape:connector-curvature="0"
+     style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:1;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;stroke-opacity:1" />
+  <text
+     id="text867"
+     style="fill:#ffffff;fill-opacity:1;stroke:none;stroke-dasharray:none;stroke-opacity:1"
+     x="1553.2869"
+     y="563.52759">
+    <tspan
+       font-size="10"
+       font-weight="bold"
+       x="1577.4077"
+       y="573.52759"
+       textLength="6.1083984"
+       id="tspan869"
+       style="font-weight:bold;font-size:10px;font-family:Helvetica;fill:#ffffff">F</tspan>
+    <tspan
+       font-size="10"
+       font-weight="bold"
+       x="1582.9692"
+       y="573.52759"
+       textLength="17.22168"
+       id="tspan871"
+       style="font-weight:bold;font-size:10px;font-family:Helvetica;fill:#ffffff">AB</tspan>
+    <tspan
+       font-size="10"
+       font-weight="bold"
+       x="1564.5391"
+       y="585.52759"
+       textLength="46.108398"
+       id="tspan873"
+       style="font-weight:bold;font-size:10px;font-family:Helvetica;fill:#ffffff">DIPLOMA</tspan>
+    <tspan
+       font-size="10"
+       font-weight="bold"
+       x="1610.2812"
+       y="585.52759"
+       textLength="2.7783203"
+       id="tspan875"
+       style="font-weight:bold;font-size:10px;font-family:Helvetica;fill:#ffffff" />
+    <tspan
+       font-size="10"
+       font-weight="bold"
+       x="1559.9077"
+       y="597.52759"
+       textLength="55.004883"
+       id="tspan877"
+       style="font-weight:bold;font-size:10px;font-family:Helvetica;fill:#ffffff">ACHIEVED!</tspan>
+  </text>
+  <path
+     d="m 1535.4291,643.46456 98.8268,0 c 11.6898,0 21.1772,6.944 21.1772,15.5 0,8.556 -9.4874,15.5 -21.1772,15.5 l -98.8268,0 c -11.6898,0 -21.1771,-6.944 -21.1771,-15.5 0,-8.556 9.4873,-15.5 21.1771,-15.5"
+     id="path879"
+     inkscape:connector-curvature="0"
+     style="fill:#cccccc;fill-opacity:1;stroke:none;stroke-dasharray:none;stroke-opacity:1" />
+  <path
+     d="m 1535.4291,643.46456 98.8268,0 c 11.6898,0 21.1772,6.944 21.1772,15.5 0,8.556 -9.4874,15.5 -21.1772,15.5 l -98.8268,0 c -11.6898,0 -21.1771,-6.944 -21.1771,-15.5 0,-8.556 9.4873,-15.5 21.1771,-15.5"
+     id="path881"
+     inkscape:connector-curvature="0"
+     style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:1;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;stroke-opacity:1" />
+  <text
+     id="text883"
+     style="fill:#000000;fill-opacity:1;stroke:none;stroke-dasharray:none;stroke-opacity:1"
+     x="1533.3701"
+     y="646.96454">
+    <tspan
+       font-size="10"
+       font-weight="500"
+       x="1535.9314"
+       y="656.96454"
+       textLength="100.600586"
+       id="tspan885"
+       style="font-weight:500;font-size:10px;font-family:Helvetica">Evaluation Committee</tspan>
+    <tspan
+       font-size="10"
+       font-weight="500"
+       x="1555.6628"
+       y="668.96454"
+       textLength="58.359375"
+       id="tspan887"
+       style="font-weight:500;font-size:10px;font-family:Helvetica">Reviews End</tspan>
+  </text>
+  <path
+     d="m 1584.8018,609.4488 0,11.9 0.02,5.1079 0.02,5.10786 0,2"
+     id="path889"
+     inkscape:connector-curvature="0"
+     style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:1;stroke-linecap:round;stroke-linejoin:miter;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#FilledArrow_Marker)" />
+  <text
+     id="text891"
+     style="fill:#000000;fill-opacity:1;stroke:none;stroke-dasharray:none;stroke-opacity:1"
+     x="844.05511"
+     y="22.601776">
+    <tspan
+       font-size="28"
+       font-weight="bold"
+       x="873.7406"
+       y="49.601776"
+       textLength="426.692"
+       id="tspan893"
+       style="font-weight:bold;font-size:28px;font-family:'Helvetica Neue'">Fab Academy Evaluation Cycles</tspan>
+  </text>
+  <text
+     id="text895"
+     style="fill:#000000;fill-opacity:1;stroke:none;stroke-dasharray:none;stroke-opacity:1"
+     x="112.71653"
+     y="90.039368">
+    <tspan
+       font-size="19"
+       font-weight="bold"
+       x="245.03221"
+       y="111.03937"
+       textLength="12.6728516"
+       id="tspan897"
+       style="font-weight:bold;font-size:19px;font-family:'Arial Black'">L</tspan>
+    <tspan
+       font-size="19"
+       font-weight="bold"
+       x="257.38034"
+       y="111.03937"
+       textLength="89.72119"
+       id="tspan899"
+       style="font-weight:bold;font-size:19px;font-family:'Arial Black'">OCAL: W</tspan>
+    <tspan
+       font-size="19"
+       font-weight="bold"
+       x="346.60983"
+       y="111.03937"
+       textLength="44.345703"
+       id="tspan901"
+       style="font-weight:bold;font-size:19px;font-family:'Arial Black'">eekl</tspan>
+    <tspan
+       font-size="19"
+       font-weight="bold"
+       x="391.28024"
+       y="111.03937"
+       textLength="44.327148"
+       id="tspan903"
+       style="font-weight:bold;font-size:19px;font-family:'Arial Black'">y Cy</tspan>
+    <tspan
+       font-size="19"
+       font-weight="bold"
+       x="435.28268"
+       y="111.03937"
+       textLength="12.6728516"
+       id="tspan905"
+       style="font-weight:bold;font-size:19px;font-family:'Arial Black'">c</tspan>
+    <tspan
+       font-size="19"
+       font-weight="bold"
+       x="447.46384"
+       y="111.03937"
+       textLength="19"
+       id="tspan907"
+       style="font-weight:bold;font-size:19px;font-family:'Arial Black'">le</tspan>
+  </text>
+  <text
+     id="text909"
+     style="fill:#000000;fill-opacity:1;stroke:none;stroke-dasharray:none;stroke-opacity:1"
+     x="835.55121"
+     y="90.039368">
+    <tspan
+       font-size="19"
+       font-weight="bold"
+       x="922.02753"
+       y="111.03937"
+       textLength="12.6728516"
+       id="tspan911"
+       style="font-weight:bold;font-size:19px;font-family:'Arial Black'">L</tspan>
+    <tspan
+       font-size="19"
+       font-weight="bold"
+       x="934.37567"
+       y="111.03937"
+       textLength="197.40332"
+       id="tspan913"
+       style="font-weight:bold;font-size:19px;font-family:'Arial Black'">OCAL: Final Evalua</tspan>
+    <tspan
+       font-size="19"
+       font-weight="bold"
+       x="1131.4542"
+       y="111.03937"
+       textLength="72.82715"
+       id="tspan915"
+       style="font-weight:bold;font-size:19px;font-family:'Arial Black'">tion Cy</tspan>
+    <tspan
+       font-size="19"
+       font-weight="bold"
+       x="1203.9567"
+       y="111.03937"
+       textLength="12.6728516"
+       id="tspan917"
+       style="font-weight:bold;font-size:19px;font-family:'Arial Black'">c</tspan>
+    <tspan
+       font-size="19"
+       font-weight="bold"
+       x="1216.1378"
+       y="111.03937"
+       textLength="19"
+       id="tspan919"
+       style="font-weight:bold;font-size:19px;font-family:'Arial Black'">le</tspan>
+  </text>
+  <text
+     id="text921"
+     style="fill:#000000;fill-opacity:1;stroke:none;stroke-dasharray:none;stroke-opacity:1"
+     x="1487.5197"
+     y="90.039368">
+    <tspan
+       font-size="19"
+       font-weight="bold"
+       x="1566.2448"
+       y="111.03937"
+       textLength="28.5"
+       id="tspan923"
+       style="font-weight:bold;font-size:19px;font-family:'Arial Black'">GL</tspan>
+    <tspan
+       font-size="19"
+       font-weight="bold"
+       x="1594.42"
+       y="111.03937"
+       textLength="30.605957"
+       id="tspan925"
+       style="font-weight:bold;font-size:19px;font-family:'Arial Black'">OB</tspan>
+    <tspan
+       font-size="19"
+       font-weight="bold"
+       x="1624.7013"
+       y="111.03937"
+       textLength="166.79736"
+       id="tspan927"
+       style="font-weight:bold;font-size:19px;font-family:'Arial Black'">AL: Final Evalua</tspan>
+    <tspan
+       font-size="19"
+       font-weight="bold"
+       x="1791.174"
+       y="111.03937"
+       textLength="72.82715"
+       id="tspan929"
+       style="font-weight:bold;font-size:19px;font-family:'Arial Black'">tion Cy</tspan>
+    <tspan
+       font-size="19"
+       font-weight="bold"
+       x="1863.6764"
+       y="111.03937"
+       textLength="12.6728516"
+       id="tspan931"
+       style="font-weight:bold;font-size:19px;font-family:'Arial Black'">c</tspan>
+    <tspan
+       font-size="19"
+       font-weight="bold"
+       x="1875.8575"
+       y="111.03937"
+       textLength="19"
+       id="tspan933"
+       style="font-weight:bold;font-size:19px;font-family:'Arial Black'">le</tspan>
+  </text>
+  <text
+     id="text935"
+     style="fill:#ff0000;fill-opacity:1;stroke:none;stroke-dasharray:none;stroke-opacity:1"
+     x="58.858269"
+     y="730.10846">
+    <tspan
+       font-size="12"
+       font-weight="bold"
+       x="58.858269"
+       y="742.10846"
+       textLength="30.672"
+       id="tspan937"
+       style="font-weight:bold;font-size:12px;font-family:'Helvetica Neue';fill:#ff0000">Note:</tspan>
+    <tspan
+       font-size="12"
+       font-weight="500"
+       x="89.530266"
+       y="742.10846"
+       textLength="120.252"
+       id="tspan939"
+       style="font-weight:500;font-size:12px;font-family:'Helvetica Neue';fill:#ff0000">Instructors should be</tspan>
+    <tspan
+       font-size="12"
+       font-weight="500"
+       x="58.858269"
+       y="756.45654"
+       textLength="145.8"
+       id="tspan941"
+       style="font-weight:500;font-size:12px;font-family:'Helvetica Neue';fill:#ff0000">evaluating student work thr</tspan>
+    <tspan
+       font-size="12"
+       font-weight="500"
+       x="204.44226"
+       y="756.45654"
+       textLength="51.132"
+       id="tspan943"
+       style="font-weight:500;font-size:12px;font-family:'Helvetica Neue';fill:#ff0000">ough out</tspan>
+    <tspan
+       font-size="12"
+       font-weight="500"
+       x="58.858269"
+       y="770.79254"
+       textLength="171.816"
+       id="tspan945"
+       style="font-weight:500;font-size:12px;font-family:'Helvetica Neue';fill:#ff0000">the course and giving feedback</tspan>
+    <tspan
+       font-size="12"
+       font-weight="500"
+       x="58.858269"
+       y="789.12854"
+       textLength="14.448"
+       id="tspan947"
+       style="font-weight:500;font-size:12px;font-family:'Helvetica Neue';fill:#ff0000">thr</tspan>
+    <tspan
+       font-size="12"
+       font-weight="500"
+       x="73.090271"
+       y="789.12854"
+       textLength="47.796"
+       id="tspan949"
+       style="font-weight:500;font-size:12px;font-family:'Helvetica Neue';fill:#ff0000">oughout.</tspan>
+    <tspan
+       font-size="16"
+       font-weight="500"
+       x="120.88627"
+       y="789.12854"
+       textLength="4.448"
+       id="tspan951"
+       style="font-weight:500;font-size:16px;font-family:'Helvetica Neue'" />
+  </text>
+  <text
+     id="text953"
+     style="fill:#000000;fill-opacity:1;stroke:none;stroke-dasharray:none;stroke-opacity:1"
+     x="25.5"
+     y="15.776001">
+    <tspan
+       font-size="16"
+       font-weight="500"
+       x="25.552"
+       y="30.776001"
+       textLength="8.896"
+       id="tspan955"
+       style="font-weight:500;font-size:16px;font-family:'Helvetica Neue'">8</tspan>
+  </text>
+  <text
+     id="text957"
+     style="fill:#000000;fill-opacity:1;stroke:none;stroke-dasharray:none;stroke-opacity:1"
+     x="25.5"
+     y="15.776001">
+    <tspan
+       font-size="16"
+       font-weight="500"
+       x="25.552"
+       y="30.776001"
+       textLength="8.896"
+       id="tspan959"
+       style="font-weight:500;font-size:16px;font-family:'Helvetica Neue'">1</tspan>
+  </text>
+</svg>

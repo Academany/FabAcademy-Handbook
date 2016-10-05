@@ -12,19 +12,19 @@ In order to complete the program students need to satisfactorily complete *all *
 
 ### Complete Evaluation Life Cycle: Diagram
 
-![image alt text](image_0.jpg)
+![image alt text](img/image_0.jpg)
 
 ### Local Weekly Evaluation Cycle: Diagram
 
-![image alt text](image_1.jpg)
+![image alt text](img/image_1.jpg)
 
 ## Local Final Evaluation Cycle: Diagram
 
-![image alt text](image_2.jpg)
+![image alt text](img/image_2.jpg)
 
 ## Global Final Evaluation Cycle: Diagram
 
-![image alt text](image_3.jpg)
+![image alt text](img/image_3.jpg)
 
 ## Global Evaluation Committee
 
