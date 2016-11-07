@@ -27,9 +27,9 @@ All classes and most meetings will take place on the CBA MCU.
 
 The CBA maintains a [detailed list of compatible video conferencing clients](http://fab.cba.mit.edu/about/video/) and MCU technical connection details.
 
-An up-to-date tutorial on connecting to the MCU using Linphone from an Ubuntu installation can be found [here](http://beachlab.org/fab2016/video.html).
+Mac and Windows are encouraged to use Cisco Spark Web client.
 
-Since the previous recommended application for Mac and Windows is no longer supported (Jabber Video) we have created a quick tutorial meant only as a stop-gap measure until a better long term solution is found. Please find it [here](http://fabulabu.github.io).
+An up-to-date tutorial on connecting to the MCU using Linphone from an Ubuntu installation can be found [here](http://beachlab.org/fab2016/video.html).
 
 **NOTE: You may want to connect to 1@18.85.8.48 to test your audio and video.** "1" is the general Fab Lab channel and there are usually several labs connected that can help you test your audio and video.
 

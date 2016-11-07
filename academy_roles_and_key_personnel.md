@@ -41,7 +41,7 @@ Fab Academy Developer and IT Guru
 
 ## What Are "Gurus"?
 
-Fab Academy graduates who have shown mastery of the broad range of HTMAA and have earned the respect of their peers through their[ years of service](#bookmark=kix.eaycmcwtyl9o) to the Academy.
+Fab Academy graduates who have shown mastery of the broad range of HTMAA and have earned the respect of their peers through their [years of service](#bookmark=kix.eaycmcwtyl9o) to the Academy.
 
 The role of Fab Academy Guru is to initiate, mentor and technically train new Fab Academy students for participation and leadership in the global Fab Lab Network community.
 
@@ -95,7 +95,7 @@ Gurus teach "How to Make Almost Anything". It’s a team effort, no one knows ev
 
     * Antimony
 
-    * Kokopelli
+    * .cad file format
 
     * Assembly
 
@@ -103,22 +103,22 @@ Gurus teach "How to Make Almost Anything". It’s a team effort, no one knows ev
 
 * [**Ted Hung**](mailto:ted@fablabtaipei.org)
 
-* **Fiore**
+* **Fiore Basile**
 
     * Fab Modules
-    
+
     * Gitlab
-    
+
     * Italian Pizza and Pasta
 
-* **Ohad**
+* **Ohad Meyuhas**
 
-* **Blair**
+* **Blair Evans**
 
-* [**Beno**](mailto:beno@fablablima.org)
+* [**Beno Juarez**](mailto:beno@fablablima.org)
 
     * Final Project suggestions
-  
+
 
 * [**Aldo Sollazzo**](http://noumena.io/)
 
@@ -128,15 +128,13 @@ Gurus teach "How to Make Almost Anything". It’s a team effort, no one knows ev
 
     * Python
 
-* **Gurus - you know who you are, add yourself here**
-
 # Distinctions Between Gurus and Local Instructors
 
 As the network grows we have found it necessary to further distinguish between those with experience teaching Fab Academy and those who are just starting out.
 
 ## What Denotes a Guru?
 
-A Guru is a senior instructor. Gurus have 3 or more years of Academy teaching experience, making them qualified to take on students without direct supervision.
+A Guru is a senior instructor. Gurus have **3 or more years of Academy teaching experience**, making them qualified to take on students without direct supervision.
 
 ## Who Can Be a Fab Academy Local Instructor?
 

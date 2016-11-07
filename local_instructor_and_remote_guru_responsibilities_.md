@@ -2,7 +2,7 @@
 
 ## Instructor Prep Meetings
 
-In addition, we will meet as instructors each week, it is vital that you attend every prep meeting.
+In addition, instructors meet each week half an hour before class ( Wednesday 8:30 EDT) at MCU #4. It is vital that instructors attend **every** prep meeting. Many important decisions are taken during these meetings. Supernodes will keep record of instructors attendance to prep meetings.
 
 ## Weekly Time Commitment: Local Instructors
 
@@ -73,9 +73,9 @@ Some specialty items are difficult to find in small quantities, **specifically, 
 
 [The Fab Foundation](http://fabfoundation.org) buys these items in bulk and can provide small quantities and at cost value to all participating labs.
 
-* **US, South America or Asia: **please contact Jean-Luc Pierite directly at:** ****[jeanluc.pierite at fabfoundation.or**g](mailto:jeanluc.pierite@fabfoundation.org)
+* **US, South America or Asia:** please contact Jean-Luc Pierite directly at: [jeanluc.pierite at fabfoundation.org](mailto:jeanluc.pierite@fabfoundation.org)
 
-* **Europe, the Middle East or Africa**: Fab Lab Barcelona also manages stock for the Fab Foundation. To order from them please email: **[orders at fablabbcn.or**g](mailto:orders@fablabbcn.org)
+* **Europe, the Middle East or Africa**: Fab Lab Barcelona also manages stock for the Fab Foundation. To order from them please email: [orders at fablabbcn.org](mailto:orders@fablabbcn.org)
 
 ## GIT Repositories
 
@@ -107,7 +107,7 @@ Local instructors and Remote Gurus must work with the students to ensure they ha
 
     * bill of materials (BOM), preferably with part numbers
 
-    * electronics design files (Eagle/Image/.cad/kokopelli - whatever used)
+    * electronics design files (Eagle schematic and board/.cad - whatever used)
 
     * code
 
@@ -117,8 +117,11 @@ Local instructors and Remote Gurus must work with the students to ensure they ha
 
 Must show clearly "decomposable" tasks for each student.
 
-This means, each student must complete a complete system that demonstrates that they individually completed all of the final project minimum requirements listed above.
+This means, each student must complete a complete system that demonstrates that they individually completed all of the final project minimum requirements listed above for a final project. It is not a division of work.
 
-## Final Project Budget: Ideally $10+ , not $100+  (whatever Neil said in class)
+## Final Project Budget: Ideally $10+ , not $100+
 
-(make parts - where possible - instead of buying)
+General rule:
+
+* Do not buy what you can recycle
+* Make parts, where possible instead of buying. Even the precision and the quality of the manufactured part will not match the commercially available it is preferable that you design and fabricate your own parts.
