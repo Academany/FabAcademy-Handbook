@@ -10,7 +10,7 @@ Global lectures happen on Wednesdays at 9:00 AM EST (ranging from 6:00 on the We
 
 Refer to the current schedule for detailed information.
 
-Local Instructors and Gurus are also required to attend the weekly prep meeting on Wednesdays 8:30 AM EST, 30 minutes** **before the start of class.
+Local Instructors and Gurus are also required to attend the weekly prep meeting on Wednesdays 8:30 AM EST, 30 minutes before the start of class.
 
 ## Weekly Homework Reviews / Help Sessions (Experiential 2016)
 
@@ -28,7 +28,7 @@ The time commitment is about 16+ hours a week at minimum, but could be far great
 
 ### Required Documentation
 
-Students are required to document their work each week for the unit covered and homework will be reviewed during each weekly class cycle. Your local instructor or remote guru will review your documentation in detail every four weeks to make sure you are not falling behind.
+Students are required to document their work each week for the unit covered and homework will be reviewed during each weekly class cycle. Your local instructor or remote guru will review your documentation in detail every week to make sure you are not falling behind.
 
 Your Fab Academy documentation must show completion of the unit and core skill competencies. It will be in HTML format and must be able to exist within a GIT archive.
 
@@ -36,7 +36,7 @@ At minimum, the Global Evaluation Committee expects a student’s documentation 
 
 * A text description of their project for the week
 
-    * designing and fabricating the work
+* designing and fabricating the work
 
 * Supporting photographs (video is great, but not required).
 
