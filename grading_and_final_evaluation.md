@@ -62,6 +62,6 @@ The Evaluation Committee members are **volunteering large amounts of their time*
 
 # Fab Academy Evaluation Criteria
 
-**Draft** evaluation criteria here (please check this document each week). Minor changes will be made to this document during Fab Academy, but changes to assessment requirements will only be made to future assignments, not completed assignments.
+Evaluation criteria below. Minor changes to future assignments will be made to this document during Fab Academy, so please check this document each week.
 
-[https://docs.google.com/document/d/1zAWJiWkeQLfKYBh_vMmz1n4kAwyFWOgF-MGMqIPLSMOo/edit?usp=sharing](https://docs.google.com/document/d/1zAWJiWkeQLfKYBh_Mmz1n4kAwyFWOgF-MGMqIPLSMOo/edit?usp=sharing)
+<http://docs.academany.org/FabAcademy-Assessment/_book/>
