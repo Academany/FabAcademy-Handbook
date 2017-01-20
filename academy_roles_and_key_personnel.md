@@ -68,65 +68,44 @@ Gurus teach "How to Make Almost Anything". It’s a team effort, no one knows ev
 ## Current Active Fab Academy Gurus
 
 * **Bas Withagen**
-
 * **Shawn Wallace**
-
 * **Mercedes Mane**
-
 * [**Luciano Betoldi**](mailto:luciano@fablabbcn.org)
-
     * Furniture Design - Complex Joints
-
     * Molding and Casting
-
     * Composites
-
     * CAD Design
-
     * CNC Machining
-
 * **Alex Schaub**
-
 * **Tomas Diez**
-
 * [**Nuria Robles**](mailto:nuriafablab@gmail.com)
-
 * [**Francisco Sanchez**](mailto:hola@beachlab.org)
-
     * Antimony
-
     * .cad file format
-
     * Assembly
-
     * attiny’s
-
 * [**Ted Hung**](mailto:ted@fablabtaipei.org)
-
 * **Fiore Basile**
-
     * Fab Modules
-
     * Gitlab
-
     * Italian Pizza and Pasta
-
 * **Ohad Meyuhas**
-
 * **Blair Evans**
-
 * [**Beno Juarez**](mailto:beno@fablablima.org)
-
     * Final Project suggestions
-
-
 * [**Aldo Sollazzo**](http://noumena.io/)
-
     * Computational design
-
     * Grasshopper
+    * Python    
+* **Enrico Bassi**
+  * CAD
+  * Design review
+  * Final projects suggestion
+  * Fiber Laser cutting for PCBs
+  * Milling
+  * Molding and casting
+  * Composite
 
-    * Python
 
 # Distinctions Between Gurus and Local Instructors
 

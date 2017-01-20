@@ -12,9 +12,9 @@ Refer to the current schedule for detailed information.
 
 Local Instructors and Gurus are also required to attend the weekly prep meeting on Wednesdays 8:30 AM EST, 30 minutes before the start of class.
 
-## Weekly Homework Reviews / Help Sessions (Experiential 2016)
+## Weekly Regional Reviews / Help Sessions
 
-Homework review sessions led by Gurus will be staggered according to global time. Exact time will be confirmed by the SN Gurus.
+Homework review sessions led by Gurus will be staggered according to global time. Exact time will be confirmed by the Supernode Gurus.
 
 All sessions take place on the MCU conferencing system on channel 4 - Class. More information on this in the section below entitled "Video Conferencing".
 
