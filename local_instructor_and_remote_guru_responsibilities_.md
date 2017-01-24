@@ -43,13 +43,13 @@ Remote Gurus are REQUIRED to meet with their mentee lab / students for a video c
 
 ## Weekly Time Commitment: Remote Supervision
 
-Depending on the experience level of the local tutor, a remote Guru may be asked to simply supervise a lab to ensure that the local instructor is keeping up with his weekly duties by checking in with him over email or weekly quick call, as well as to check on student progress.
+Depending on the experience level of the local tutor, a remote Guru may be asked to simply supervise a lab to ensure that the local instructor is keeping up with their weekly duties by checking in with them over email or weekly quick call, as well as to check on student progress.
 
 This should take no more than 4 hours a week for a group of around 15 students.  
 
 ## Time Commitment: Final Student Evaluations
 
-During the final grading at the end of the class - which determines if a student has graduated - Local Instructors and Remote Gurus should expect to spend approximately 6-8 hours reviewing their student’s work BEFORE submitting those they believe to have completed all assignments and final project successfully to the Global Evaluation Committee.
+During the final grading at the end of the class - which determines if a student has graduated - Local Instructors and Remote Gurus should expect to spend approximately 6-8 hours reviewing their student’s work before submitting those they believe to have completed all assignments and final project successfully to the Global Evaluation Committee.
 
 Senior Instructors (2+ years experience and have completed at least one grading cycle on their own are required to serve on the Global Evaluation Committee to help out with the final student review process. The number of enrolled students continues to grow and many hands make light work (and decrease the individual time commitment).
 
@@ -61,7 +61,7 @@ Local instructors need to interview and inform their prospective students. It is
 
 The continually updated [Fab Lab Inventory](https://docs.google.com/spreadsheet/pub?key=0AtIlZyLn99e6dGRleUJTY043a3FucUhFUVVBYTdxS3c&single=true&gid=0&output=html) specifies the current list of [required materials and machines](#bookmark=id.843gxx6uvm3c). While some of the vendors listed are worldwide distributors, others are US only. This is noted in the inventory.
 
-Announcements regarding changes in inventory or new items are sometimes made during the weekly prep meetings. **Local Instructors are responsible for ordering supplies for their students **and should leave some extra funds in the budget to account for new items being introduced during the course.
+Announcements regarding changes in inventory or new items are sometimes made during the weekly prep meetings. **Local Instructors are responsible for ordering supplies for their students** and should leave some extra funds in the budget to account for new items being introduced during the course.
 
 Local ordering for the Fab Academy program (especially for [Specialty Items](#bookmark=id.qnicb3u7xhta)) should ideally be made in it’s entirety ahead of the start of the course. However, this is not always possible. It is then of the utmost importance to keep track of upcoming assignments and have items in stock and on premises at least 4 weeks in advance to when they will be needed, minimising the impact of possible shipping delays.
 
@@ -85,43 +85,17 @@ While this is part of the learning process for both Local Instructors and studen
 
 ## Managing Final Projects
 
-Local Instructors also help students manage their time and provide guidance towards the creation of feasible final projects that can be accomplished by each student (students have different skill sets) within the duration of the course.
+Local Instructors also help students manage their time and provide guidance towards the creation of feasible final projects that can be accomplished by each student (students have different skill sets) within the duration of the course. The advice you will hear many times is to develop your project in a spiral. Small successes that you can build on will lead you to successful completion. 
 
-Local instructors and Remote Gurus must work with the students to ensure they have everything in stock, or that they order well enough in advance. You must also leave a little room in the budget for final project supplies.
+Local instructors and Remote Gurus will ensure they have everything in stock, or that they order well enough in advance. 
 
-**Your project must:**
-
-* be your own design
-
-* include an input device and an output device and two other digital fabrication processes
-
-* include 2D and 3D design
-
-* have a mechanical design aspect
-
-* have a license and a plan for distribution
-
-* fabricate, assemble and program a microcontroller board
-
-* all files must be linked and available:
-
-    * bill of materials (BOM), preferably with part numbers
-
-    * electronics design files (Eagle schematic and board/.cad - whatever used)
-
-    * code
-
-    * fabrication files
+**Your project must match the minimum requirements outlined in the [Assignments document](http://docs.academany.org/FabAcademy-Assessment/_book/)** 
 
 ## Group Final Projects:
 
 Must show clearly "decomposable" tasks for each student.
 
-This means, each student must complete a complete system that demonstrates that they individually completed all of the final project minimum requirements listed above for a final project. It is not a division of work.
+This means, each student must complete a complete system that demonstrates that they individually completed all of the final project minimum requirements for a final project. It is not a division of work.
 
 ## Final Project Budget: Ideally $10+ , not $100+
 
-General rule:
-
-* Do not buy what you can recycle
-* Make parts, where possible instead of buying. Even the precision and the quality of the manufactured part will not match the commercially available it is preferable that you design and fabricate your own parts.
