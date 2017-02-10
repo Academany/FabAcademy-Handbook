@@ -17,13 +17,13 @@ Director Fab Lab Program and Fab Foundation
 
 **Tomas Diez**
 
-Fab Academy Global Coordinator
+Fab Academy Thesis Coordinator
 
 [coordination@fabacademy.org](mailto:coordination@fabacademy.org)
 
 **Luciana Asinari**
 
-Fab Academy Admission Office
+Fab Academy Global Coordinator
 
 [luciana.asinari@iaac.net](mailto:luciana.asinari@iaac.net)
 
