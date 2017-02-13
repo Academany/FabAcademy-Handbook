@@ -25,7 +25,7 @@ Fab Academy Thesis Coordinator
 
 Fab Academy Global Coordinator
 
-[luciana.asinari@iaac.net](mailto:luciana.asinari@iaac.net)
+[coordination@fabacademy.org](mailto:coordination@fabacademy.org)
 
 **Fiore Basile**
 
@@ -35,15 +35,15 @@ Fab Academy Developer and IT Guru
 
 **Supply Chain:**
 
-* USA, South America or Asia: please contact Jean-Luc Pierite directly at: [jeanluc.pierite at fabfoundation.org](mailto:jeanluc.pierite@fabfoundation.org)
+* For FR1 machinable PCB, MTM Kits and Fab Academy Class Kits please contact Romain di Vozzo: [Romain at fabacademyn.org] (mailto:romain@fabacademy.org) or Jean-Luc Pierite directly: [jeanluc.pierite at fabfoundation.org](mailto:jeanluc.pierite@fabfoundation.org)
 
-* Europe, the Middle East or Africa: Fab Lab Barcelona also manages stock for the Fab Foundation. To order from them please email: [orders at fablabbcn.org](mailto:orders@fablabbcn.org)
+* For the rest of the stock, please ask your Supernode.
 
 ## What Are "Gurus"?
 
 Fab Academy graduates who have shown mastery of the broad range of HTMAA and have earned the respect of their peers through their [years of service](#bookmark=kix.eaycmcwtyl9o) to the Academy.
 
-The role of Fab Academy Guru is to initiate, mentor and technically train new Fab Academy students for participation and leadership in the global Fab Lab Network community.
+The role of Fab Academy Gurus is to initiate, mentor and technically train new Fab Academy students for participation and leadership in the global Fab Lab Network community.
 
 As many students are without strong local mentorship, the Guru’s key task is to monitor the students or labs placed in their charge - clearly communicating both class expectations, answering their questions, supporting them (through both email and video conferencing) and monitoring and tracking their progress and attendance.   
 
@@ -69,15 +69,12 @@ Gurus teach "How to Make Almost Anything". It’s a team effort, no one knows ev
 
 * **Bas Withagen**
 * **Shawn Wallace**
-* **Mercedes Mane**
 * [**Luciano Betoldi**](mailto:luciano@fablabbcn.org)
     * Furniture Design - Complex Joints
     * Molding and Casting
     * Composites
     * CAD Design
     * CNC Machining
-* **Alex Schaub**
-* **Tomas Diez**
 * [**Nuria Robles**](mailto:nuriafablab@gmail.com)
 * [**Francisco Sanchez**](mailto:hola@beachlab.org)
     * Antimony
@@ -93,6 +90,7 @@ Gurus teach "How to Make Almost Anything". It’s a team effort, no one knows ev
 * **Blair Evans**
 * [**Beno Juarez**](mailto:beno@fablablima.org)
     * Final Project suggestions
+* **Victor Freundt** 
 * [**Aldo Sollazzo**](http://noumena.io/)
     * Computational design
     * Grasshopper
@@ -105,6 +103,14 @@ Gurus teach "How to Make Almost Anything". It’s a team effort, no one knows ev
   * Milling
   * Molding and casting
   * Composite
+* **Mio Kato**
+* **Wendy Neale**
+* **Ted Hung**
+* **Santiago Fuentemilla**
+* **Luis Carvao**
+* **Masato Takemura**
+* **Covadonga Lorenzo**
+* **Roberto Delgado**
 
 
 # Distinctions Between Gurus and Local Instructors
