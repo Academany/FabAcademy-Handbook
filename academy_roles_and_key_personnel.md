@@ -23,7 +23,7 @@ Fab Academy Thesis Coordinator
 
 **Luciana Asinari**
 
-Fab Academy Global Coordinator (test)
+Fab Academy Global Coordinator
 
 [luciana.asinari@iaac.net](mailto:luciana.asinari@iaac.net)
 
