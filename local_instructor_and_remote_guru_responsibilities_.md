@@ -22,7 +22,7 @@ Local Instructors should commit to a **minimum of 16 weekly hours** on their dut
 
 ## Weekly Time Commitment: Remote Gurus
 
-Remote Gurus working with labs without a local instructor should expect to spend **a minimum of 6 weekly hours** on their duties.
+Remote Gurus working with labs without a local instructor should expect to spend **a minimum of 7 weekly hours** on their duties.
 
 1-2 weekly hours per remote student, attend lecture and prep meetings and may need to take on additional tasks - depending on their agreement with the local lab and the level of help needed.  
 
@@ -73,9 +73,12 @@ Some specialty items are difficult to find in small quantities, **specifically, 
 
 [The Fab Foundation](http://fabfoundation.org) buys these items in bulk and can provide small quantities and at cost value to all participating labs.
 
-* **US, South America or Asia:** please contact Jean-Luc Pierite directly at: [jeanluc.pierite at fabfoundation.org](mailto:jeanluc.pierite@fabfoundation.org)
+* Your Supernode should be able to help you source most of the materials. 
 
-* **Europe, the Middle East or Africa**: Fab Lab Barcelona also manages stock for the Fab Foundation. To order from them please email: [orders at fablabbcn.org](mailto:orders@fablabbcn.org)
+* For ordering Specialty items, contact Fab Academy Supply Chain master Romain Di Vozzo [romain (at) fabacademy.org](mailto:jeanluc.pierite@fabfoundation.org).
+
+* Class kit orders [here](https://docs.google.com/spreadsheets/d/15ygmcTUY0fq2hlFZP89DbYMkt93UcooFiPPrxWG6L5k/edit#gid=25822647)
+
 
 ## GIT Repositories
 
