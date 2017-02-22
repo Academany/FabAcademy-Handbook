@@ -48,13 +48,9 @@ There are a few of you (or your students) that were missed or slipped through th
 
 1. Review the student’s work themselves first
 
-2. If the student is complete, contact the Fab Academy Coordination.
+2. If the student is complete, contact the Fab Academy Coordination who will inform about the deadlines, fees and procedure.
 
-3. Use the email subject heading `Re-Evaluation Requested: STUDENT NAME`
-
-4. Then the committee will review and determine final graduation status
-
-**Use of consistent subject headings **will help us sort and filter our huge piles of email much more easily and** enable us to more quickly address your situation. **We truly want to get last year's limbo graduation decisions resolved.
+3. Then the committee will review and determine final graduation status
 
 ## Why Re-Evaluation Backlogs Happen
 
