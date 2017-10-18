@@ -1,10 +1,10 @@
 # Accepted Academy Sites: Getting Started
 
-## Basic Lab Expectations
+## Basic Lab Expectations to Become a Fab Academy Node
 
 * The "[Basic Requirements](new_and_aspiring_labs_basic_requirement.md)" have already been met
 
-* There is a [Local Instructor present or a Remote Guru](local_instructor_and_remote_guru_responsibilities_.md) has been assigned
+* There is a [Local Instructor present](local_instructor_and_remote_guru_responsibilities_.md) in the Lab
 
 * If the Local Instructor is new (first year as an instructor), they are officially assigned to and being mentored by a Remote Guru.
 
