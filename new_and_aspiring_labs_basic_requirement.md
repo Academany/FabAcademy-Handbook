@@ -64,4 +64,4 @@ We have found that it is (nearly) impossible for a student to complete the cours
 
 * MACHINE LOGISTICS: In the case of multiple Local Instructors / Gurus in one lab, another 5 students can be enrolled for a recommended maximum of 15 students, as the problem now becomes a logistical one of students vs machines and machine time available (assuming standard inventory quantities).
 
-* REMOTE LOCATION CONSOLIDATION: Likewise, it is not recommended that Guru support more than 10 remote students and every attempt should be made to group remote students in such a way that Gurus do not have students in more than 2 remote locations.   
+* REMOTE GURUS: Likewise, it is not recommended that Guru support more than 10 remote students and every attempt should be made to group remote students in such a way that Gurus do not have students in more than 2 remote locations.   
