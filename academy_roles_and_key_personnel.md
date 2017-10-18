@@ -27,6 +27,12 @@ Fab Academy Global Coordinator
 
 [coordination@fabacademy.org](mailto:coordination@fabacademy.org)
 
+**Chiara Dallolio**
+
+Fab Academy Admissions
+
+[admissions@fabacademy.org](mailto:admissions@fabacademy.org)
+
 **Fiore Basile**
 
 Fab Academy Developer and IT Guru
@@ -37,9 +43,9 @@ Fab Academy Developer and IT Guru
 
 * For FR1 machinable PCB, MTM Kits and Fab Academy Class Kits please contact Romain di Vozzo: [Romain at fabacademyn.org] (mailto:romain@fabacademy.org) or Jean-Luc Pierite directly: [jeanluc.pierite at fabfoundation.org](mailto:jeanluc.pierite@fabfoundation.org)
 
-* For the rest of the stock, please ask your Supernode.
+* For the rest of the stock, please ask your Mentor/Guru.
 
-## What Are "Gurus"?
+## What Are "Gurus" / Mentors?
 
 Fab Academy graduates who have shown mastery of the broad range of HTMAA and have earned the respect of their peers through their [years of service](#bookmark=kix.eaycmcwtyl9o) to the Academy.
 
@@ -119,18 +125,16 @@ As the network grows we have found it necessary to further distinguish between t
 
 ## What Denotes a Guru?
 
-A Guru is a senior instructor. Gurus have **3 or more years of Academy teaching experience**, making them qualified to take on students without direct supervision.
+A Guru or Mentor is a senior instructor. Gurus have **3 or more years of Academy teaching experience**, making them qualified to take on students without direct supervision. But it is not only a matter of time, Mentors / Gurus have also the recognition of their peers as such and they are active members of the Fab Academy Community.
 
 ## Who Can Be a Fab Academy Local Instructor?
 
 The first requirement for becoming a Fab Academy Local Instructor is to complete the Fab Academy program satisfactorily.
 
-### Year 1: Local Instructor with Mandatory Support and Supervision
+### Year 0: Local Instructor with Mandatory Support and Supervision
 
-* Fab Academy graduates (with the recommendation of their instructor or remote Guru) are eligible to be local Fab Academy Local Instructors.
+Fab Academy graduates (with the recommendation of their instructor or remote Guru) are eligible to be local Fab Academy Local Instructors. For these Novice Instructors offering the course for the first time, the support of a remote Guru during is mandatory and has an impact on the costs distribution.
 
-* They must have the help of a remote Guru and / or supernode support during their first year.
+### Year 1+: Local Instructor
 
-### Year 2+: Stand Alone Local Instructor
-
-* Second and third year instructors are eligible to be local Local Instructors (with the recommendation of their supernode / remote Guru) without direct remote supervision.
+After the first year of instruction, Local Instructors need soft support from a remote Guru that will guide them through the basic processes, and the cost of the suport will not impact the local costs.
